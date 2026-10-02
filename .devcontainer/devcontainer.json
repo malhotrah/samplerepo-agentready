@@ -1,0 +1,62 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.224.2/containers/python-3
+{
+  "name": "Python 3",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "..",
+    "args": {
+      "VARIANT": "3.14-trixie"
+    }
+  },
+  "mounts": [
+    "source=mealie-devcontainer-workspace,target=/workspaces/mealie/frontend/node_modules,type=volume",
+    "source=mealie-venv,target=/workspaces/mealie/.venv,type=volume",
+    "source=mealie-bashhistory,target=/home/vscode/commandhistory,type=volume",
+    "source=mealie-gh-config,target=/home/vscode/.config/gh,type=volume"
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.formatting.autopep8Path": "/usr/local/py-utils/bin/autopep8",
+        "python.formatting.yapfPath": "/usr/local/py-utils/bin/yapf",
+        "mypy.runUsingActiveInterpreter": true
+      },
+      "extensions": [
+        "charliermarsh.ruff",
+        "dbaeumer.vscode-eslint",
+        "matangover.mypy",
+        "ms-python.pylint",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "streetsidesoftware.code-spell-checker-cspell-bundled-dictionaries",
+        "Vue.volar"
+      ]
+    }
+  },
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [
+    3000,
+    8000, // used by mkdocs
+    9000,
+    9091, // used by docker production
+    51204, // used for test coverage report
+    24678 // used by nuxt when hot-reloading using polling
+  ],
+  "onCreateCommand": "sudo chown vscode:vscode /workspaces/mealie/.venv && task setup --force",
+  "remoteUser": "vscode",
+  "features": {
+    "ghcr.io/devcontainers/features/node:2": {
+      "version": "24"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers/features/docker-in-docker:4": {
+      "moby": false
+    }
+  },
+  "appPort": [
+    "3000:3000",
+    "9000:9000"
+  ]
+}

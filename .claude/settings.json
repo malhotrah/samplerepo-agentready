@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(task py:test:*)",
+      "Bash(task py:check:*)",
+      "Bash(task py:lint:*)",
+      "Bash(task py:format:*)",
+      "Bash(task py:mypy:*)",
+      "Bash(task ui:test:*)",
+      "Bash(task ui:check:*)",
+      "Bash(task dev:generate:*)",
+      "Bash(task onboard:*)",
+      "Bash(task --list:*)",
+      "Bash(git status)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ],
+    "deny": [
+      "Bash(git push:*)",
+      "Read(./frontend/app/lib/api/types/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          { "type": "command", "command": "node .claude/hooks/block-generated-edits.js" }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          { "type": "command", "command": "node .claude/hooks/format-python.js" }
+        ]
+      }
+    ]
+  }
+}

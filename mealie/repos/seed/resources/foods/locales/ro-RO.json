@@ -1,0 +1,2420 @@
+{
+  "produce": {
+    "name": "Fructe și legume",
+    "foods": {
+      "garlic": {
+        "name": "usturoi",
+        "plural_name": ""
+      },
+      "onion": {
+        "name": "ceapă",
+        "plural_name": "cepe"
+      },
+      "bell pepper": {
+        "name": "ardei gras",
+        "plural_name": "ardei grași"
+      },
+      "carrot": {
+        "name": "morcov",
+        "plural_name": "morcovi"
+      },
+      "scallion": {
+        "name": "ceapă verde",
+        "plural_name": "scallions"
+      },
+      "zucchini": {
+        "name": "dovlecel",
+        "plural_name": "dovlecei"
+      },
+      "potato": {
+        "name": "cartof",
+        "plural_name": "cartofi"
+      },
+      "red onion": {
+        "name": "ceapă roșie",
+        "plural_name": "cepe roșii"
+      },
+      "yellow onion": {
+        "name": "ceapă galbenă",
+        "plural_name": "cepe galbene"
+      },
+      "celery": {
+        "name": "țelină",
+        "plural_name": ""
+      },
+      "jalapeño": {
+        "name": "jalapeño",
+        "plural_name": "jalapeños"
+      },
+      "avocado": {
+        "name": "avocado",
+        "plural_name": "avocados"
+      },
+      "shallot": {
+        "name": "eșalotă",
+        "plural_name": "eșalotetomată cherry"
+      },
+      "cherry tomato": {
+        "name": "tomată cherry",
+        "plural_name": "roșii cherry"
+      },
+      "cucumber": {
+        "name": "castravete",
+        "plural_name": "castraveți"
+      },
+      "spinach": {
+        "name": "spanac",
+        "plural_name": ""
+      },
+      "sweet corn": {
+        "name": "porumb dulce",
+        "plural_name": ""
+      },
+      "chile pepper": {
+        "name": "ardei iute",
+        "plural_name": "ardei iuți"
+      },
+      "sweet potato": {
+        "name": "cartof dulce",
+        "plural_name": "cartofi dulci"
+      },
+      "broccoli": {
+        "name": "broccoli",
+        "plural_name": ""
+      },
+      "heart of palm": {
+        "name": "inimă de palmier",
+        "plural_name": "miezuri de palmier"
+      },
+      "pumpkin": {
+        "name": "dovleac",
+        "plural_name": "dovleci"
+      },
+      "cauliflower": {
+        "name": "conopidă",
+        "plural_name": ""
+      },
+      "cabbage": {
+        "name": "verze",
+        "plural_name": "cabbages"
+      },
+      "asparagus": {
+        "name": "sparanghel",
+        "plural_name": ""
+      },
+      "kale": {
+        "name": "varză kale",
+        "plural_name": ""
+      },
+      "arugula": {
+        "name": "rucola",
+        "plural_name": ""
+      },
+      "leek": {
+        "name": "praz",
+        "plural_name": "leeks"
+      },
+      "eggplant": {
+        "name": "vânătă",
+        "plural_name": "vinete"
+      },
+      "lettuce": {
+        "name": "salată",
+        "plural_name": ""
+      },
+      "butternut squash": {
+        "name": "dovleac",
+        "plural_name": "dovleci"
+      },
+      "romaine lettuce": {
+        "name": "salată romană",
+        "plural_name": ""
+      },
+      "beetroot": {
+        "name": "sfeclă roșie",
+        "plural_name": "sfecle roșii"
+      },
+      "brussels sprout": {
+        "name": "varză de Bruxelles",
+        "plural_name": "brussels sprouts"
+      },
+      "fennel": {
+        "name": "fenicul",
+        "plural_name": ""
+      },
+      "sun dried tomato": {
+        "name": "roșii uscate la soare",
+        "plural_name": "sun dried tomatoes"
+      },
+      "radish": {
+        "name": "ridiche",
+        "plural_name": "ridichi"
+      },
+      "red cabbage": {
+        "name": "varză roșie",
+        "plural_name": "verze roșii"
+      },
+      "artichoke": {
+        "name": "anghinare",
+        "plural_name": "artichokes"
+      },
+      "parsnip": {
+        "name": "păstârnac",
+        "plural_name": "păstârnaci"
+      },
+      "poblano pepper": {
+        "name": "ardei poblano",
+        "plural_name": "poblano peppers"
+      },
+      "green tomato": {
+        "name": "roșie verde",
+        "plural_name": "roșii verzi"
+      },
+      "horseradish": {
+        "name": "hrean",
+        "plural_name": ""
+      },
+      "chard": {
+        "name": "pătrunjel de grădină",
+        "plural_name": ""
+      },
+      "spaghetti squash": {
+        "name": "dovleac spaghetti",
+        "plural_name": "dovleci spaghetti"
+      },
+      "napa cabbage": {
+        "name": "verze chinezești",
+        "plural_name": "napa cabbages"
+      },
+      "celeriac": {
+        "name": "țelină rădăcină",
+        "plural_name": ""
+      },
+      "turnip": {
+        "name": "nap",
+        "plural_name": "napi"
+      },
+      "bok choy": {
+        "name": "varză chinezească",
+        "plural_name": ""
+      },
+      "okra": {
+        "name": "bame",
+        "plural_name": ""
+      },
+      "radicchio": {
+        "name": "radicchio",
+        "plural_name": ""
+      },
+      "plantain": {
+        "name": "banană plantain",
+        "plural_name": "banane plantain"
+      },
+      "collard greens": {
+        "name": "frunză de varză furajeră",
+        "plural_name": ""
+      },
+      "baby corn": {
+        "name": "porumb baby",
+        "plural_name": ""
+      },
+      "broccoli rabe": {
+        "name": "rapini",
+        "plural_name": ""
+      },
+      "tomato": {
+        "name": "roșie",
+        "plural_name": "roșii"
+      },
+      "lemon": {
+        "name": "lămâie",
+        "plural_name": "lămâi"
+      },
+      "lime": {
+        "name": "limetă",
+        "plural_name": "limete"
+      },
+      "apple": {
+        "name": "măr",
+        "plural_name": "mere"
+      },
+      "banana": {
+        "name": "banană",
+        "plural_name": "banane"
+      },
+      "orange": {
+        "name": "portocală",
+        "plural_name": "portocale"
+      },
+      "raisin": {
+        "name": "stafidă",
+        "plural_name": "stafide"
+      },
+      "pineapple": {
+        "name": "ananas",
+        "plural_name": "ananași"
+      },
+      "mango": {
+        "name": "mango",
+        "plural_name": "mangoes"
+      },
+      "peach": {
+        "name": "Piersică",
+        "plural_name": "piersici"
+      },
+      "date": {
+        "name": "curmal",
+        "plural_name": "curmale"
+      },
+      "coconut": {
+        "name": "cocos",
+        "plural_name": "coconuts"
+      },
+      "pear": {
+        "name": "pară",
+        "plural_name": "pere"
+      },
+      "grape": {
+        "name": "strugure",
+        "plural_name": "struguri"
+      },
+      "pomegranate": {
+        "name": "rodie",
+        "plural_name": "rodii"
+      },
+      "watermelon": {
+        "name": "pepene",
+        "plural_name": "pepeni"
+      },
+      "rhubarb": {
+        "name": "rubarbă",
+        "plural_name": ""
+      },
+      "kiwi": {
+        "name": "kiwi",
+        "plural_name": "kiwis"
+      },
+      "grapefruit": {
+        "name": "grepfrut",
+        "plural_name": "grapefruits"
+      },
+      "plum": {
+        "name": "prună",
+        "plural_name": "prune"
+      },
+      "fig": {
+        "name": "smochină",
+        "plural_name": "smochine"
+      },
+      "apricot": {
+        "name": "caisă",
+        "plural_name": "caise"
+      },
+      "mandarin": {
+        "name": "mandarină",
+        "plural_name": "mandarine"
+      },
+      "cantaloupe": {
+        "name": "pepene galben",
+        "plural_name": "pepeni galbeni"
+      },
+      "tamarind": {
+        "name": "tamarind",
+        "plural_name": "tamarinds"
+      },
+      "button mushroom": {
+        "name": "ciupercă champignon",
+        "plural_name": "ciuperci champignon"
+      },
+      "shiitake mushroom": {
+        "name": "ciupercă shiitake",
+        "plural_name": "ciuperci shiitake"
+      },
+      "portobello mushroom": {
+        "name": "ciupercă portobello",
+        "plural_name": "ciuperci portobello"
+      },
+      "pea": {
+        "name": "mazăre",
+        "plural_name": "peas"
+      },
+      "green bean": {
+        "name": "green bean",
+        "plural_name": "green beans"
+      },
+      "snow pea": {
+        "name": "snow pea",
+        "plural_name": "snow peas"
+      },
+      "snap pea": {
+        "name": "snap pea",
+        "plural_name": "snap peas"
+      },
+      "bean sprout": {
+        "name": "bean sprout",
+        "plural_name": "bean sprouts"
+      },
+      "edamame": {
+        "name": "edamame",
+        "plural_name": ""
+      },
+      "strawberry": {
+        "name": "căpșună",
+        "plural_name": "căpșuni"
+      },
+      "blueberry": {
+        "name": "coacăză",
+        "plural_name": "coacăze"
+      },
+      "raspberry": {
+        "name": "zmeură",
+        "plural_name": "Zmeură"
+      },
+      "cranberry": {
+        "name": "merișor",
+        "plural_name": "merișoare"
+      },
+      "cherry": {
+        "name": "cireașă",
+        "plural_name": "cireșe"
+      },
+      "blackberry": {
+        "name": "mură",
+        "plural_name": "Mure"
+      },
+      "parsley": {
+        "name": "pătrunjel",
+        "plural_name": ""
+      },
+      "cilantro": {
+        "name": "coriandru verde",
+        "plural_name": ""
+      },
+      "basil": {
+        "name": "busuioc",
+        "plural_name": ""
+      },
+      "ginger root": {
+        "name": "rădăcină de ghimbir",
+        "plural_name": ""
+      },
+      "chive": {
+        "name": "arpagic",
+        "plural_name": "chives"
+      },
+      "mint": {
+        "name": "mentă",
+        "plural_name": ""
+      },
+      "lemongrass": {
+        "name": "lemongrass",
+        "plural_name": ""
+      },
+      "thai basil": {
+        "name": "busuioc thailandez",
+        "plural_name": ""
+      },
+      "mushroom": {
+        "name": "mushroom",
+        "plural_name": "mushrooms"
+      },
+      "corn": {
+        "name": "corn",
+        "plural_name": ""
+      },
+      "green onion": {
+        "name": "green onion",
+        "plural_name": "green onions"
+      },
+      "lemon juice": {
+        "name": "lemon juice",
+        "plural_name": ""
+      },
+      "lime juice": {
+        "name": "lime juice",
+        "plural_name": ""
+      }
+    }
+  },
+  "grains": {
+    "name": "Cereale",
+    "foods": {
+      "rolled oat": {
+        "name": "rolled oat",
+        "plural_name": "rolled oats"
+      },
+      "rice": {
+        "name": "rice",
+        "plural_name": ""
+      },
+      "quinoa": {
+        "name": "quinoa",
+        "plural_name": ""
+      },
+      "basmati rice": {
+        "name": "basmati rice",
+        "plural_name": ""
+      },
+      "brown rice": {
+        "name": "brown rice",
+        "plural_name": ""
+      },
+      "risotto rice": {
+        "name": "risotto rice",
+        "plural_name": ""
+      },
+      "couscous": {
+        "name": "couscous",
+        "plural_name": ""
+      },
+      "wild rice": {
+        "name": "orez sălbatic",
+        "plural_name": ""
+      },
+      "semolina": {
+        "name": "griș",
+        "plural_name": ""
+      },
+      "jasmine rice": {
+        "name": "orez jamin",
+        "plural_name": ""
+      },
+      "polenta": {
+        "name": "mămăligă",
+        "plural_name": ""
+      },
+      "granola cereal": {
+        "name": "granola",
+        "plural_name": ""
+      },
+      "bulgur": {
+        "name": "bulgur",
+        "plural_name": ""
+      },
+      "barley": {
+        "name": "orz",
+        "plural_name": ""
+      },
+      "steel cut oat": {
+        "name": "steel cut oat",
+        "plural_name": "steel cut oats"
+      },
+      "millet": {
+        "name": "mei",
+        "plural_name": ""
+      },
+      "sushi rice": {
+        "name": "orez sushi",
+        "plural_name": ""
+      },
+      "hominy": {
+        "name": "hominy",
+        "plural_name": ""
+      },
+      "chickpea": {
+        "name": "năut",
+        "plural_name": "năuturi"
+      },
+      "black bean": {
+        "name": "black bean",
+        "plural_name": "black beans"
+      },
+      "kidney bean": {
+        "name": "kidney bean",
+        "plural_name": "kidney beans"
+      },
+      "white bean": {
+        "name": "white bean",
+        "plural_name": "white beans"
+      },
+      "lentil": {
+        "name": "linte",
+        "plural_name": "lentils"
+      },
+      "pinto bean": {
+        "name": "pinto bean",
+        "plural_name": "pinto beans"
+      },
+      "red lentil": {
+        "name": "red lentil",
+        "plural_name": "red lentils"
+      },
+      "cannellini bean": {
+        "name": "cannellini bean",
+        "plural_name": "cannellini beans"
+      },
+      "black-eyed pea": {
+        "name": "black-eyed pea",
+        "plural_name": "black-eyed peas"
+      },
+      "split pea": {
+        "name": "split pea",
+        "plural_name": "split peas"
+      },
+      "mung bean": {
+        "name": "mung bean",
+        "plural_name": "mung beans"
+      },
+      "spaghetti": {
+        "name": "spaghetti",
+        "plural_name": ""
+      },
+      "macaroni": {
+        "name": "macaroni",
+        "plural_name": ""
+      },
+      "egg noodle": {
+        "name": "egg noodle",
+        "plural_name": "egg noodles"
+      },
+      "spiral pasta": {
+        "name": "spiral pasta",
+        "plural_name": ""
+      },
+      "lasagna noodle": {
+        "name": "lasagna noodle",
+        "plural_name": "lasagna noodles"
+      },
+      "linguine": {
+        "name": "linguine",
+        "plural_name": ""
+      },
+      "fettuccine": {
+        "name": "fettuccine",
+        "plural_name": ""
+      },
+      "orzo": {
+        "name": "orzo",
+        "plural_name": ""
+      },
+      "pasta shell": {
+        "name": "pasta shell",
+        "plural_name": "pasta shells"
+      },
+      "noodle": {
+        "name": "noodle",
+        "plural_name": "noodles"
+      },
+      "tortellini": {
+        "name": "tortellini",
+        "plural_name": ""
+      },
+      "rice noodle": {
+        "name": "rice noodle",
+        "plural_name": "rice noodles"
+      },
+      "rigatoni": {
+        "name": "rigatoni",
+        "plural_name": ""
+      },
+      "gnocchi": {
+        "name": "gnocchi",
+        "plural_name": ""
+      },
+      "ramen noodle": {
+        "name": "ramen noodle",
+        "plural_name": "ramen noodles"
+      },
+      "soba noodle": {
+        "name": "soba noodle",
+        "plural_name": "soba noodles"
+      },
+      "ravioli": {
+        "name": "ravioli",
+        "plural_name": ""
+      },
+      "udon noodle": {
+        "name": "udon noodle",
+        "plural_name": "udon noodles"
+      },
+      "manicotti": {
+        "name": "manicotti",
+        "plural_name": ""
+      },
+      "farro": {
+        "name": "farro",
+        "plural_name": ""
+      },
+      "pasta": {
+        "name": "pasta",
+        "plural_name": ""
+      },
+      "penne": {
+        "name": "penne",
+        "plural_name": ""
+      },
+      "farfalle": {
+        "name": "farfalle",
+        "plural_name": ""
+      }
+    }
+  },
+  "meat": {
+    "name": "Carne",
+    "foods": {
+      "ground beef": {
+        "name": "carne de vită tocată",
+        "plural_name": ""
+      },
+      "beef steak": {
+        "name": "friptură de vită",
+        "plural_name": "fripturi de vită"
+      },
+      "pork chop": {
+        "name": "cotlet de porc",
+        "plural_name": "cotlete de porc"
+      },
+      "pork loin": {
+        "name": "mușchi de porc",
+        "plural_name": "mușchiuri de porc"
+      },
+      "beef roast": {
+        "name": "bucată de vită pentru friptură",
+        "plural_name": "beef roasts"
+      },
+      "ground pork": {
+        "name": "carne de porc tocată",
+        "plural_name": ""
+      },
+      "beef stew meat": {
+        "name": "carne de vită pentru tocăniță",
+        "plural_name": ""
+      },
+      "pork fillet": {
+        "name": "mușchiuleț de porc",
+        "plural_name": "pork fillets"
+      },
+      "pork shoulder": {
+        "name": "spată de porc",
+        "plural_name": ""
+      },
+      "ground lamb": {
+        "name": "carne de miel tocată",
+        "plural_name": ""
+      },
+      "pork rib": {
+        "name": "coaste de porc",
+        "plural_name": "costițe de porc"
+      },
+      "beef sirloin": {
+        "name": "mușchi de vită",
+        "plural_name": "beef sirloins"
+      },
+      "brisket": {
+        "name": "piept de vită",
+        "plural_name": ""
+      },
+      "leg of lamb": {
+        "name": "pulpă de miel",
+        "plural_name": "legs of lamb"
+      },
+      "beef short rib": {
+        "name": "coaste scurte de vită",
+        "plural_name": "beef short ribs"
+      },
+      "pork belly": {
+        "name": "burtă de porc",
+        "plural_name": ""
+      },
+      "lamb chop": {
+        "name": "cotlet de miel",
+        "plural_name": "cotlete de miel"
+      },
+      "venison": {
+        "name": "carne de vânat",
+        "plural_name": ""
+      },
+      "oxtail": {
+        "name": "coadă de vită",
+        "plural_name": "oxtails"
+      },
+      "chicken breast": {
+        "name": "piept de pui",
+        "plural_name": "chicken breasts"
+      },
+      "chicken thigh": {
+        "name": "pulpă de pui",
+        "plural_name": "pulpe de pui"
+      },
+      "ground turkey": {
+        "name": "carne de curcan tocată",
+        "plural_name": ""
+      },
+      "whole chicken": {
+        "name": "pui întreg",
+        "plural_name": "whole chickens"
+      },
+      "whole turkey": {
+        "name": "curcan întreg",
+        "plural_name": "whole turkeys"
+      },
+      "chicken leg": {
+        "name": "pulpă de pui",
+        "plural_name": "pulpe de pui"
+      },
+      "chicken wing": {
+        "name": "aripă de pui",
+        "plural_name": "aripi de pui"
+      },
+      "turkey breast": {
+        "name": "piept de curcan",
+        "plural_name": "turkey breasts"
+      },
+      "ground chicken": {
+        "name": "carne de curcan pui",
+        "plural_name": ""
+      },
+      "rotisserie chicken": {
+        "name": "pui la rotisor",
+        "plural_name": "rotisserie chickens"
+      },
+      "duck": {
+        "name": "rață",
+        "plural_name": "ducks"
+      },
+      "chicken liver": {
+        "name": "ficat de pui",
+        "plural_name": "chicken livers"
+      },
+      "cornish hen": {
+        "name": "pui cornish",
+        "plural_name": "cornish hens"
+      },
+      "veal": {
+        "name": "veal",
+        "plural_name": ""
+      },
+      "chicken": {
+        "name": "chicken",
+        "plural_name": ""
+      },
+      "beef": {
+        "name": "beef",
+        "plural_name": ""
+      },
+      "pork": {
+        "name": "pork",
+        "plural_name": ""
+      },
+      "lamb": {
+        "name": "lamb",
+        "plural_name": ""
+      },
+      "turkey": {
+        "name": "turkey",
+        "plural_name": ""
+      }
+    }
+  },
+  "meat-products": {
+    "name": "Produse din carne",
+    "foods": {
+      "bacon": {
+        "name": "șuncă",
+        "plural_name": ""
+      },
+      "ham": {
+        "name": "șuncă",
+        "plural_name": ""
+      },
+      "prosciutto": {
+        "name": "prosciutto",
+        "plural_name": ""
+      },
+      "sausage": {
+        "name": "cârnat",
+        "plural_name": "cârnați"
+      },
+      "pepperoni": {
+        "name": "pepperoni",
+        "plural_name": "pepperonis"
+      },
+      "chorizo": {
+        "name": "chorizo",
+        "plural_name": ""
+      },
+      "pancetta": {
+        "name": "pancetta",
+        "plural_name": ""
+      },
+      "breakfast sausage": {
+        "name": "cârnat pentru mic dejun",
+        "plural_name": "cârnați pentru mic dejun"
+      },
+      "hot dog": {
+        "name": "crenvurst",
+        "plural_name": "hot dogi"
+      },
+      "salami": {
+        "name": "salam",
+        "plural_name": ""
+      },
+      "kielbasa": {
+        "name": "kielbasa",
+        "plural_name": ""
+      },
+      "corned beef": {
+        "name": "corned beef",
+        "plural_name": ""
+      }
+    }
+  },
+  "seafood": {
+    "name": "Fructe de Mare",
+    "foods": {
+      "bonito flake": {
+        "name": "bonito flake",
+        "plural_name": "bonito flakes"
+      },
+      "salmon": {
+        "name": "somon",
+        "plural_name": ""
+      },
+      "smoked salmon": {
+        "name": "somon afumat",
+        "plural_name": ""
+      },
+      "cod": {
+        "name": "cod",
+        "plural_name": ""
+      },
+      "tilapia": {
+        "name": "tilapia",
+        "plural_name": ""
+      },
+      "halibut": {
+        "name": "halibut",
+        "plural_name": ""
+      },
+      "trout": {
+        "name": "păstrăv",
+        "plural_name": ""
+      },
+      "catfish": {
+        "name": "somn",
+        "plural_name": ""
+      },
+      "sardine": {
+        "name": "sardină",
+        "plural_name": "sardine"
+      },
+      "haddock": {
+        "name": "eglefin de mare",
+        "plural_name": ""
+      },
+      "shrimp": {
+        "name": "crevete",
+        "plural_name": ""
+      },
+      "crab": {
+        "name": "crab",
+        "plural_name": "crabs"
+      },
+      "scallop": {
+        "name": "scoică Saint-Jacques",
+        "plural_name": "scoici Saint-Jacques"
+      },
+      "mussel": {
+        "name": "midie",
+        "plural_name": "midii"
+      },
+      "clam": {
+        "name": "scoică",
+        "plural_name": "scoici"
+      },
+      "squid": {
+        "name": "calamar",
+        "plural_name": ""
+      },
+      "nori": {
+        "name": "nori",
+        "plural_name": ""
+      },
+      "lobster": {
+        "name": "homar",
+        "plural_name": "homari"
+      },
+      "oyster": {
+        "name": "stridie",
+        "plural_name": "stridii"
+      },
+      "octopus": {
+        "name": "caracatiță întreagă",
+        "plural_name": "caracatițe întregi"
+      },
+      "fish": {
+        "name": "fish",
+        "plural_name": ""
+      },
+      "tuna": {
+        "name": "tuna",
+        "plural_name": ""
+      }
+    }
+  },
+  "dairy-products": {
+    "name": "Produse lactate",
+    "foods": {
+      "parmesan cheese": {
+        "name": "brânză parmesan",
+        "plural_name": ""
+      },
+      "cheddar cheese": {
+        "name": "brânză cheddar",
+        "plural_name": ""
+      },
+      "cream cheese": {
+        "name": "cremă de brânză",
+        "plural_name": ""
+      },
+      "cheese": {
+        "name": "brânză",
+        "plural_name": ""
+      },
+      "mozzarella cheese": {
+        "name": "brânză mozzarella",
+        "plural_name": ""
+      },
+      "feta cheese": {
+        "name": "brânză feta",
+        "plural_name": ""
+      },
+      "ricotta cheese": {
+        "name": "brânză ricotta",
+        "plural_name": ""
+      },
+      "monterey jack cheese": {
+        "name": "brânză monterey jack",
+        "plural_name": ""
+      },
+      "blue cheese": {
+        "name": "brânză cu mucegai albastru",
+        "plural_name": ""
+      },
+      "goat cheese": {
+        "name": "brânză de capră",
+        "plural_name": ""
+      },
+      "swiss cheese": {
+        "name": "brânză elvețiană",
+        "plural_name": ""
+      },
+      "gruyere cheese": {
+        "name": "brânză gruyère",
+        "plural_name": ""
+      },
+      "mascarpone cheese": {
+        "name": "mascarpone",
+        "plural_name": ""
+      },
+      "cottage cheese": {
+        "name": "brânză de vaci",
+        "plural_name": ""
+      },
+      "american cheese": {
+        "name": "brânză americană",
+        "plural_name": ""
+      },
+      "brie cheese": {
+        "name": "brânză brie",
+        "plural_name": ""
+      },
+      "paneer cheese": {
+        "name": "paneer",
+        "plural_name": ""
+      },
+      "fontina cheese": {
+        "name": "brânză fontina",
+        "plural_name": ""
+      },
+      "queso fresco cheese": {
+        "name": "queso fresco",
+        "plural_name": ""
+      },
+      "halloumi cheese": {
+        "name": "halloumi",
+        "plural_name": ""
+      },
+      "italian cheese blend": {
+        "name": "mix de brânzeturi italiene",
+        "plural_name": ""
+      },
+      "butter": {
+        "name": "unt",
+        "plural_name": ""
+      },
+      "egg": {
+        "name": "ou",
+        "plural_name": "ouă"
+      },
+      "milk": {
+        "name": "lapte",
+        "plural_name": ""
+      },
+      "heavy cream": {
+        "name": "smântână pentru frișcă",
+        "plural_name": ""
+      },
+      "sour cream": {
+        "name": "smântână",
+        "plural_name": ""
+      },
+      "buttermilk": {
+        "name": "lapte bătut",
+        "plural_name": ""
+      },
+      "yogurt": {
+        "name": "iaurt",
+        "plural_name": ""
+      },
+      "greek yogurt": {
+        "name": "iaurt grecesc",
+        "plural_name": ""
+      },
+      "cream": {
+        "name": "smântână lichidă",
+        "plural_name": ""
+      },
+      "whipped cream": {
+        "name": "frișcă",
+        "plural_name": ""
+      },
+      "ghee": {
+        "name": "unt clarificat",
+        "plural_name": ""
+      },
+      "half and half": {
+        "name": "smântână pentru cafea",
+        "plural_name": ""
+      },
+      "sweetened condensed milk": {
+        "name": "lapte condensat îndulcit",
+        "plural_name": ""
+      },
+      "kefir": {
+        "name": "chefir",
+        "plural_name": ""
+      },
+      "provolone cheese": {
+        "name": "brânză provolone",
+        "plural_name": ""
+      },
+      "egg white": {
+        "name": "egg white",
+        "plural_name": "egg whites"
+      },
+      "egg yolk": {
+        "name": "egg yolk",
+        "plural_name": "egg yolks"
+      }
+    }
+  },
+  "baked-goods": {
+    "name": "Produse coapte",
+    "foods": {
+      "pie crust": {
+        "name": "pie crust",
+        "plural_name": "pie crusts"
+      },
+      "puff pastry": {
+        "name": "puff pastry",
+        "plural_name": "puff pastries"
+      },
+      "pizza dough": {
+        "name": "pizza dough",
+        "plural_name": ""
+      },
+      "phyllo": {
+        "name": "phyllo",
+        "plural_name": ""
+      },
+      "dumpling wrapper": {
+        "name": "dumpling wrapper",
+        "plural_name": "dumpling wrappers"
+      },
+      "rice paper": {
+        "name": "rice paper",
+        "plural_name": ""
+      },
+      "bread": {
+        "name": "bread",
+        "plural_name": ""
+      },
+      "bread crumb": {
+        "name": "bread crumb",
+        "plural_name": "bread crumbs"
+      },
+      "panko": {
+        "name": "panko",
+        "plural_name": ""
+      },
+      "flour tortilla": {
+        "name": "flour tortilla",
+        "plural_name": "flour tortillas"
+      },
+      "corn tortilla": {
+        "name": "corn tortilla",
+        "plural_name": "corn tortillas"
+      },
+      "baguette": {
+        "name": "baguette",
+        "plural_name": "baguettes"
+      },
+      "pita": {
+        "name": "pita",
+        "plural_name": "pitas"
+      },
+      "sourdough bread": {
+        "name": "sourdough bread",
+        "plural_name": ""
+      },
+      "crouton": {
+        "name": "crouton",
+        "plural_name": "croutons"
+      },
+      "english muffin": {
+        "name": "english muffin",
+        "plural_name": "english muffins"
+      },
+      "brioche": {
+        "name": "brioche",
+        "plural_name": ""
+      },
+      "rye bread": {
+        "name": "rye bread",
+        "plural_name": ""
+      },
+      "naan": {
+        "name": "naan",
+        "plural_name": "naans"
+      },
+      "taco shell": {
+        "name": "taco shell",
+        "plural_name": "taco shells"
+      },
+      "bagel": {
+        "name": "bagel",
+        "plural_name": "bagels"
+      },
+      "croissant": {
+        "name": "croissant",
+        "plural_name": "croissants"
+      },
+      "hawaiian roll": {
+        "name": "hawaiian roll",
+        "plural_name": "hawaiian rolls"
+      },
+      "challah": {
+        "name": "challah",
+        "plural_name": ""
+      },
+      "bao bun": {
+        "name": "bao bun",
+        "plural_name": "bao buns"
+      }
+    }
+  },
+  "canned-goods": {
+    "name": "Produse conservate",
+    "foods": {
+      "canned tomato": {
+        "name": "canned tomato",
+        "plural_name": "canned tomatoes"
+      },
+      "caper": {
+        "name": "caper",
+        "plural_name": "capers"
+      },
+      "green olive": {
+        "name": "green olive",
+        "plural_name": "green olives"
+      },
+      "canned chickpea": {
+        "name": "canned chickpea",
+        "plural_name": "canned chickpeas"
+      },
+      "black olive": {
+        "name": "black olive",
+        "plural_name": "black olives"
+      },
+      "canned black bean": {
+        "name": "canned black bean",
+        "plural_name": "canned black beans"
+      },
+      "canned pumpkin": {
+        "name": "canned pumpkin",
+        "plural_name": ""
+      },
+      "kalamata olive": {
+        "name": "kalamata olive",
+        "plural_name": "kalamata olives"
+      },
+      "canned tuna": {
+        "name": "canned tuna",
+        "plural_name": ""
+      },
+      "pickle": {
+        "name": "pickle",
+        "plural_name": "pickles"
+      },
+      "chipotle in adobo": {
+        "name": "chipotle in adobo",
+        "plural_name": "chipotles in adobo"
+      },
+      "canned anchovy": {
+        "name": "canned anchovy",
+        "plural_name": "canned anchovies"
+      },
+      "roasted red pepper": {
+        "name": "roasted red pepper",
+        "plural_name": "roasted red peppers"
+      },
+      "canned artichoke": {
+        "name": "canned artichoke",
+        "plural_name": "canned artichokes"
+      },
+      "canned corn": {
+        "name": "canned corn",
+        "plural_name": ""
+      },
+      "canned kidney bean": {
+        "name": "canned kidney bean",
+        "plural_name": "canned kidney beans"
+      },
+      "refried bean": {
+        "name": "refried bean",
+        "plural_name": "refried beans"
+      },
+      "canned whole tomato": {
+        "name": "canned whole tomato",
+        "plural_name": "canned whole tomatoes"
+      },
+      "sweet pickle relish": {
+        "name": "sweet pickle relish",
+        "plural_name": ""
+      },
+      "sauerkraut": {
+        "name": "sauerkraut",
+        "plural_name": ""
+      },
+      "creamed corn": {
+        "name": "creamed corn",
+        "plural_name": ""
+      },
+      "pickled jalapeño": {
+        "name": "pickled jalapeño",
+        "plural_name": "pickled jalapeños"
+      },
+      "diced green chile": {
+        "name": "diced green chile",
+        "plural_name": "diced green chiles"
+      },
+      "sun-dried tomato in oil": {
+        "name": "sun-dried tomato in oil",
+        "plural_name": "sun-dried tomatoes in oil"
+      },
+      "kimchi": {
+        "name": "kimchi",
+        "plural_name": ""
+      },
+      "baked bean": {
+        "name": "baked bean",
+        "plural_name": "baked beans"
+      },
+      "canned salmon": {
+        "name": "canned salmon",
+        "plural_name": ""
+      },
+      "canned clam": {
+        "name": "canned clam",
+        "plural_name": "canned clams"
+      },
+      "canned baby corn": {
+        "name": "canned baby corn",
+        "plural_name": ""
+      },
+      "canned sardine": {
+        "name": "canned sardine",
+        "plural_name": "canned sardines"
+      },
+      "aquafaba": {
+        "name": "aquafaba",
+        "plural_name": ""
+      },
+      "chicken broth": {
+        "name": "chicken broth",
+        "plural_name": ""
+      },
+      "vegetable broth": {
+        "name": "vegetable broth",
+        "plural_name": ""
+      },
+      "chicken stock": {
+        "name": "chicken stock",
+        "plural_name": ""
+      },
+      "beef broth": {
+        "name": "beef broth",
+        "plural_name": ""
+      },
+      "beef stock": {
+        "name": "beef stock",
+        "plural_name": ""
+      },
+      "cream of mushroom": {
+        "name": "cream of mushroom",
+        "plural_name": ""
+      },
+      "bouillon cube": {
+        "name": "bouillon cube",
+        "plural_name": "bouillon cubes"
+      },
+      "cream of chicken": {
+        "name": "cream of chicken",
+        "plural_name": ""
+      },
+      "tomato soup": {
+        "name": "tomato soup",
+        "plural_name": ""
+      },
+      "cream of celery": {
+        "name": "cream of celery",
+        "plural_name": ""
+      },
+      "clam juice": {
+        "name": "clam juice",
+        "plural_name": ""
+      },
+      "dashi": {
+        "name": "dashi",
+        "plural_name": ""
+      },
+      "olive": {
+        "name": "olive",
+        "plural_name": "olives"
+      },
+      "bean": {
+        "name": "bean",
+        "plural_name": "beans"
+      },
+      "stock": {
+        "name": "stock",
+        "plural_name": ""
+      },
+      "broth": {
+        "name": "broth",
+        "plural_name": ""
+      }
+    }
+  },
+  "frozen-foods": {
+    "name": "Alimente congelate",
+    "foods": {}
+  },
+  "condiments": {
+    "name": "Sosuri și adaosuri",
+    "foods": {
+      "soy sauce": {
+        "name": "soy sauce",
+        "plural_name": ""
+      },
+      "dijon mustard": {
+        "name": "dijon mustard",
+        "plural_name": ""
+      },
+      "hot sauce": {
+        "name": "hot sauce",
+        "plural_name": ""
+      },
+      "worcestershire sauce": {
+        "name": "worcestershire sauce",
+        "plural_name": ""
+      },
+      "ketchup": {
+        "name": "ketchup",
+        "plural_name": ""
+      },
+      "mustard": {
+        "name": "mustard",
+        "plural_name": ""
+      },
+      "fish sauce": {
+        "name": "fish sauce",
+        "plural_name": ""
+      },
+      "bbq sauce": {
+        "name": "bbq sauce",
+        "plural_name": ""
+      },
+      "sriracha": {
+        "name": "sriracha",
+        "plural_name": ""
+      },
+      "wholegrain mustard": {
+        "name": "wholegrain mustard",
+        "plural_name": ""
+      },
+      "oyster sauce": {
+        "name": "oyster sauce",
+        "plural_name": ""
+      },
+      "teriyaki sauce": {
+        "name": "teriyaki sauce",
+        "plural_name": ""
+      },
+      "prepared horseradish": {
+        "name": "prepared horseradish",
+        "plural_name": ""
+      },
+      "cranberry sauce": {
+        "name": "cranberry sauce",
+        "plural_name": ""
+      },
+      "harissa": {
+        "name": "harissa",
+        "plural_name": ""
+      },
+      "tamarind paste": {
+        "name": "tamarind paste",
+        "plural_name": ""
+      },
+      "gochujang": {
+        "name": "gochujang",
+        "plural_name": ""
+      },
+      "wasabi": {
+        "name": "wasabi",
+        "plural_name": ""
+      },
+      "sambal oelek": {
+        "name": "sambal oelek",
+        "plural_name": ""
+      },
+      "preserved lemon": {
+        "name": "preserved lemon",
+        "plural_name": "preserved lemons"
+      },
+      "thai sweet chili sauce": {
+        "name": "thai sweet chili sauce",
+        "plural_name": ""
+      },
+      "tartar sauce": {
+        "name": "tartar sauce",
+        "plural_name": ""
+      },
+      "ponzu": {
+        "name": "ponzu",
+        "plural_name": ""
+      },
+      "peanut butter": {
+        "name": "peanut butter",
+        "plural_name": ""
+      },
+      "tomato paste": {
+        "name": "tomato paste",
+        "plural_name": ""
+      },
+      "tomato sauce": {
+        "name": "tomato sauce",
+        "plural_name": ""
+      },
+      "salsa": {
+        "name": "salsa",
+        "plural_name": "salsas"
+      },
+      "tahini": {
+        "name": "tahini",
+        "plural_name": ""
+      },
+      "pesto": {
+        "name": "pesto",
+        "plural_name": ""
+      },
+      "marinara sauce": {
+        "name": "marinara sauce",
+        "plural_name": ""
+      },
+      "pasta sauce": {
+        "name": "pasta sauce",
+        "plural_name": ""
+      },
+      "hoisin sauce": {
+        "name": "hoisin sauce",
+        "plural_name": ""
+      },
+      "hummus": {
+        "name": "hummus",
+        "plural_name": ""
+      },
+      "enchilada sauce": {
+        "name": "enchilada sauce",
+        "plural_name": ""
+      },
+      "salsa verde": {
+        "name": "salsa verde",
+        "plural_name": ""
+      },
+      "alfredo sauce": {
+        "name": "alfredo sauce",
+        "plural_name": ""
+      },
+      "balsamic glaze": {
+        "name": "balsamic glaze",
+        "plural_name": ""
+      },
+      "thai peanut sauce": {
+        "name": "thai peanut sauce",
+        "plural_name": ""
+      },
+      "mole sauce": {
+        "name": "mole sauce",
+        "plural_name": ""
+      },
+      "white miso": {
+        "name": "white miso",
+        "plural_name": ""
+      },
+      "almond butter": {
+        "name": "unt de migdale",
+        "plural_name": ""
+      },
+      "mayonnaise": {
+        "name": "mayonnaise",
+        "plural_name": ""
+      },
+      "apple cider vinegar": {
+        "name": "apple cider vinegar",
+        "plural_name": ""
+      },
+      "balsamic vinegar": {
+        "name": "balsamic vinegar",
+        "plural_name": ""
+      },
+      "vinegar": {
+        "name": "vinegar",
+        "plural_name": ""
+      },
+      "red wine vinegar": {
+        "name": "red wine vinegar",
+        "plural_name": ""
+      },
+      "rice wine vinegar": {
+        "name": "rice wine vinegar",
+        "plural_name": ""
+      },
+      "white wine vinegar": {
+        "name": "white wine vinegar",
+        "plural_name": ""
+      },
+      "ranch dressing": {
+        "name": "ranch dressing",
+        "plural_name": ""
+      },
+      "distilled white vinegar": {
+        "name": "distilled white vinegar",
+        "plural_name": ""
+      },
+      "sweet chili sauce": {
+        "name": "sweet chili sauce",
+        "plural_name": ""
+      },
+      "caesar dressing": {
+        "name": "caesar dressing",
+        "plural_name": ""
+      },
+      "agave nectar": {
+        "name": "nectar de agave",
+        "plural_name": ""
+      },
+      "honey": {
+        "name": "honey",
+        "plural_name": ""
+      }
+    }
+  },
+  "spices": {
+    "name": "Condimente",
+    "foods": {
+      "cayenne pepper": {
+        "name": "ardei cayenne",
+        "plural_name": ""
+      },
+      "cinnamon": {
+        "name": "scorțișoară",
+        "plural_name": ""
+      },
+      "cumin": {
+        "name": "chimion",
+        "plural_name": ""
+      },
+      "thyme": {
+        "name": "cimbru",
+        "plural_name": ""
+      },
+      "garlic powder": {
+        "name": "usturoi pudră",
+        "plural_name": ""
+      },
+      "oregano": {
+        "name": "oregano",
+        "plural_name": ""
+      },
+      "nutmeg": {
+        "name": "nucșoară",
+        "plural_name": ""
+      },
+      "chili flake": {
+        "name": "fulgi de chili",
+        "plural_name": "chili flakes"
+      },
+      "chili powder": {
+        "name": "chili pudră",
+        "plural_name": ""
+      },
+      "paprika": {
+        "name": "boia de ardei",
+        "plural_name": ""
+      },
+      "rosemary": {
+        "name": "rozmarin",
+        "plural_name": ""
+      },
+      "bay leaf": {
+        "name": "foaie de dafin",
+        "plural_name": "foi de dafin"
+      },
+      "turmeric": {
+        "name": "turmeric",
+        "plural_name": ""
+      },
+      "clove": {
+        "name": "cuișoare",
+        "plural_name": "cloves"
+      },
+      "onion powder": {
+        "name": "ceapă pudră",
+        "plural_name": ""
+      },
+      "ginger powder": {
+        "name": "ghimbir pudră",
+        "plural_name": ""
+      },
+      "dill": {
+        "name": "mărar",
+        "plural_name": ""
+      },
+      "green cardamom": {
+        "name": "cardamom verde",
+        "plural_name": ""
+      },
+      "smoked paprika": {
+        "name": "boia afumată",
+        "plural_name": ""
+      },
+      "sage": {
+        "name": "salvie",
+        "plural_name": ""
+      },
+      "coriander": {
+        "name": "coriandru",
+        "plural_name": ""
+      },
+      "allspice": {
+        "name": "ienibahar",
+        "plural_name": ""
+      },
+      "peppercorn": {
+        "name": "boabe de piper",
+        "plural_name": "peppercorns"
+      },
+      "mustard seed": {
+        "name": "semințe de muștar",
+        "plural_name": "mustard seeds"
+      },
+      "white pepper": {
+        "name": "piper alb",
+        "plural_name": ""
+      },
+      "curry leaf": {
+        "name": "frunze de curry",
+        "plural_name": "curry leaves"
+      },
+      "fennel seed": {
+        "name": "semințe de fenicul",
+        "plural_name": "fennel seeds"
+      },
+      "tarragon": {
+        "name": "tarhon",
+        "plural_name": ""
+      },
+      "saffron": {
+        "name": "șofran",
+        "plural_name": ""
+      },
+      "asafoetida": {
+        "name": "asafoetida",
+        "plural_name": ""
+      },
+      "star anise": {
+        "name": "anason stelat",
+        "plural_name": ""
+      },
+      "fenugreek": {
+        "name": "schinduf",
+        "plural_name": ""
+      },
+      "kaffir lime leaf": {
+        "name": "frunze de lime kaffir",
+        "plural_name": "kaffir lime leaves"
+      },
+      "guajillo pepper": {
+        "name": "ardei guajillo",
+        "plural_name": "guajillo peppers"
+      },
+      "galangal": {
+        "name": "galangal",
+        "plural_name": ""
+      },
+      "aleppo pepper": {
+        "name": "ardei aleppo",
+        "plural_name": ""
+      },
+      "italian seasoning": {
+        "name": "italian seasoning",
+        "plural_name": ""
+      },
+      "curry": {
+        "name": "curry",
+        "plural_name": ""
+      },
+      "garam masala": {
+        "name": "garam masala",
+        "plural_name": ""
+      },
+      "pumpkin pie spice": {
+        "name": "pumpkin pie spice",
+        "plural_name": ""
+      },
+      "mustard powder": {
+        "name": "mustard powder",
+        "plural_name": ""
+      },
+      "taco seasoning": {
+        "name": "taco seasoning",
+        "plural_name": ""
+      },
+      "cajun seasoning": {
+        "name": "cajun seasoning",
+        "plural_name": ""
+      },
+      "chinese five spice": {
+        "name": "chinese five spice",
+        "plural_name": ""
+      },
+      "chaat masala": {
+        "name": "chaat masala",
+        "plural_name": ""
+      },
+      "thai red curry paste": {
+        "name": "thai red curry paste",
+        "plural_name": ""
+      },
+      "za'atar": {
+        "name": "za'atar",
+        "plural_name": ""
+      },
+      "ras el hanout": {
+        "name": "ras el hanout",
+        "plural_name": ""
+      },
+      "furikake": {
+        "name": "furikake",
+        "plural_name": ""
+      },
+      "tom yum paste": {
+        "name": "tom yum paste",
+        "plural_name": ""
+      },
+      "old bay seasoning": {
+        "name": "old bay seasoning",
+        "plural_name": ""
+      },
+      "liquid smoke": {
+        "name": "liquid smoke",
+        "plural_name": ""
+      },
+      "salt": {
+        "name": "salt",
+        "plural_name": ""
+      },
+      "kosher salt": {
+        "name": "kosher salt",
+        "plural_name": ""
+      },
+      "sea salt": {
+        "name": "sea salt",
+        "plural_name": ""
+      },
+      "flaky salt": {
+        "name": "flaky salt",
+        "plural_name": ""
+      },
+      "black pepper": {
+        "name": "black pepper",
+        "plural_name": ""
+      }
+    }
+  },
+  "oils": {
+    "name": "Oils",
+    "foods": {
+      "shortening": {
+        "name": "grăsime vegetală solidă",
+        "plural_name": ""
+      },
+      "olive oil": {
+        "name": "olive oil",
+        "plural_name": ""
+      },
+      "vegetable oil": {
+        "name": "vegetable oil",
+        "plural_name": ""
+      },
+      "canola oil": {
+        "name": "canola oil",
+        "plural_name": ""
+      },
+      "coconut oil": {
+        "name": "coconut oil",
+        "plural_name": ""
+      },
+      "cooking spray": {
+        "name": "cooking spray",
+        "plural_name": ""
+      },
+      "sesame oil": {
+        "name": "sesame oil",
+        "plural_name": ""
+      },
+      "avocado oil": {
+        "name": "avocado oil",
+        "plural_name": ""
+      },
+      "peanut oil": {
+        "name": "peanut oil",
+        "plural_name": ""
+      },
+      "lard": {
+        "name": "lard",
+        "plural_name": ""
+      },
+      "chili oil": {
+        "name": "chili oil",
+        "plural_name": ""
+      },
+      "truffle oil": {
+        "name": "truffle oil",
+        "plural_name": ""
+      },
+      "duck fat": {
+        "name": "duck fat",
+        "plural_name": ""
+      },
+      "oil": {
+        "name": "oil",
+        "plural_name": ""
+      }
+    }
+  },
+  "baking": {
+    "name": "Baking",
+    "foods": {
+      "cocoa": {
+        "name": "cocoa",
+        "plural_name": ""
+      },
+      "baking chocolate": {
+        "name": "baking chocolate",
+        "plural_name": ""
+      },
+      "sugar": {
+        "name": "zahăr",
+        "plural_name": ""
+      },
+      "brown sugar": {
+        "name": "zahăr brun",
+        "plural_name": ""
+      },
+      "confectioners sugar": {
+        "name": "zahăr pudră",
+        "plural_name": ""
+      },
+      "maple syrup": {
+        "name": "sirop de arțar",
+        "plural_name": ""
+      },
+      "corn syrup": {
+        "name": "sirop de porumb",
+        "plural_name": ""
+      },
+      "molasses": {
+        "name": "molasses",
+        "plural_name": ""
+      },
+      "stevia": {
+        "name": "stevia",
+        "plural_name": ""
+      },
+      "jaggery": {
+        "name": "jaggery",
+        "plural_name": ""
+      },
+      "flour": {
+        "name": "flour",
+        "plural_name": ""
+      },
+      "vanilla extract": {
+        "name": "vanilla extract",
+        "plural_name": ""
+      },
+      "baking powder": {
+        "name": "baking powder",
+        "plural_name": ""
+      },
+      "baking soda": {
+        "name": "baking soda",
+        "plural_name": ""
+      },
+      "cornstarch": {
+        "name": "cornstarch",
+        "plural_name": ""
+      },
+      "yeast": {
+        "name": "yeast",
+        "plural_name": ""
+      },
+      "chocolate chip": {
+        "name": "chocolate chip",
+        "plural_name": "chocolate chips"
+      },
+      "whole-wheat flour": {
+        "name": "whole-wheat flour",
+        "plural_name": ""
+      },
+      "almond flour": {
+        "name": "almond flour",
+        "plural_name": ""
+      },
+      "self-raising flour": {
+        "name": "self-raising flour",
+        "plural_name": ""
+      },
+      "shredded coconut": {
+        "name": "shredded coconut",
+        "plural_name": ""
+      },
+      "cornmeal": {
+        "name": "cornmeal",
+        "plural_name": ""
+      },
+      "gelatin": {
+        "name": "gelatin",
+        "plural_name": ""
+      },
+      "cake flour": {
+        "name": "cake flour",
+        "plural_name": ""
+      },
+      "cream of tartar": {
+        "name": "cream of tartar",
+        "plural_name": ""
+      },
+      "bread flour": {
+        "name": "bread flour",
+        "plural_name": ""
+      },
+      "potato starch": {
+        "name": "potato starch",
+        "plural_name": ""
+      },
+      "buckwheat flour": {
+        "name": "buckwheat flour",
+        "plural_name": ""
+      },
+      "masa harina": {
+        "name": "masa harina",
+        "plural_name": ""
+      },
+      "matzo meal": {
+        "name": "matzo meal",
+        "plural_name": ""
+      },
+      "almond extract": {
+        "name": "almond extract",
+        "plural_name": ""
+      },
+      "food coloring": {
+        "name": "food coloring",
+        "plural_name": ""
+      },
+      "peppermint extract": {
+        "name": "peppermint extract",
+        "plural_name": ""
+      },
+      "orange extract": {
+        "name": "orange extract",
+        "plural_name": ""
+      },
+      "sprinkles": {
+        "name": "sprinkles",
+        "plural_name": ""
+      }
+    }
+  },
+  "sweets": {
+    "name": "Dulciuri",
+    "foods": {
+      "dark chocolate": {
+        "name": "dark chocolate",
+        "plural_name": ""
+      },
+      "chocolate": {
+        "name": "chocolate",
+        "plural_name": ""
+      },
+      "marshmallow": {
+        "name": "marshmallow",
+        "plural_name": "marshmallows"
+      },
+      "applesauce": {
+        "name": "applesauce",
+        "plural_name": ""
+      },
+      "white chocolate": {
+        "name": "white chocolate",
+        "plural_name": ""
+      },
+      "chocolate hazelnut spread": {
+        "name": "chocolate hazelnut spread",
+        "plural_name": ""
+      },
+      "caramel sauce": {
+        "name": "caramel sauce",
+        "plural_name": ""
+      },
+      "marshmallow creme": {
+        "name": "marshmallow creme",
+        "plural_name": ""
+      },
+      "jam": {
+        "name": "jam",
+        "plural_name": ""
+      },
+      "orange marmalade": {
+        "name": "orange marmalade",
+        "plural_name": ""
+      },
+      "cookie": {
+        "name": "cookie",
+        "plural_name": "cookies"
+      },
+      "lady finger": {
+        "name": "lady finger",
+        "plural_name": "lady fingers"
+      },
+      "apple butter": {
+        "name": "apple butter",
+        "plural_name": ""
+      },
+      "ice cream": {
+        "name": "înghețată",
+        "plural_name": ""
+      },
+      "lemon curd": {
+        "name": "cremă de lămâie",
+        "plural_name": ""
+      },
+      "dulce de leche": {
+        "name": "dulce de leche",
+        "plural_name": ""
+      }
+    }
+  },
+  "snacks": {
+    "name": "Gustări",
+    "foods": {
+      "walnut": {
+        "name": "nucă",
+        "plural_name": "nuci"
+      },
+      "pecan": {
+        "name": "nucă pecan",
+        "plural_name": "nuci pecan"
+      },
+      "almond": {
+        "name": "migdală",
+        "plural_name": "migdale"
+      },
+      "sesame seed": {
+        "name": "sămanță de susan",
+        "plural_name": "semințe de susan"
+      },
+      "cashew": {
+        "name": "caju",
+        "plural_name": "cashews"
+      },
+      "pine nut": {
+        "name": "sămânță de pin",
+        "plural_name": "semințe de pin"
+      },
+      "pistachio": {
+        "name": "fistic",
+        "plural_name": "pistachios"
+      },
+      "peanut": {
+        "name": "arahidă",
+        "plural_name": "arahide"
+      },
+      "chia": {
+        "name": "chia",
+        "plural_name": ""
+      },
+      "pumpkin seed": {
+        "name": "sămânță de dovleac",
+        "plural_name": "semințe de dovleac"
+      },
+      "hazelnut": {
+        "name": "alună",
+        "plural_name": "alune"
+      },
+      "sunflower seed": {
+        "name": "semințe de floarea-soarelui",
+        "plural_name": "sunflower seeds"
+      },
+      "graham cracker": {
+        "name": "graham cracker",
+        "plural_name": "graham crackers"
+      },
+      "cracker": {
+        "name": "cracker",
+        "plural_name": "crackers"
+      },
+      "tortilla chip": {
+        "name": "tortilla chip",
+        "plural_name": "tortilla chips"
+      },
+      "pretzel": {
+        "name": "pretzel",
+        "plural_name": "pretzels"
+      },
+      "popcorn": {
+        "name": "popcorn",
+        "plural_name": ""
+      },
+      "potato chip": {
+        "name": "potato chip",
+        "plural_name": "potato chips"
+      },
+      "nut": {
+        "name": "nut",
+        "plural_name": "nuts"
+      }
+    }
+  },
+  "beverages": {
+    "name": "Băuturi",
+    "foods": {
+      "orange juice": {
+        "name": "orange juice",
+        "plural_name": ""
+      },
+      "coffee": {
+        "name": "coffee",
+        "plural_name": ""
+      },
+      "club soda": {
+        "name": "club soda",
+        "plural_name": ""
+      },
+      "espresso": {
+        "name": "espresso",
+        "plural_name": ""
+      },
+      "pineapple juice": {
+        "name": "pineapple juice",
+        "plural_name": ""
+      },
+      "apple juice": {
+        "name": "apple juice",
+        "plural_name": ""
+      },
+      "tea": {
+        "name": "tea",
+        "plural_name": ""
+      },
+      "cranberry juice": {
+        "name": "cranberry juice",
+        "plural_name": ""
+      },
+      "tomato juice": {
+        "name": "tomato juice",
+        "plural_name": ""
+      },
+      "ginger beer": {
+        "name": "ginger beer",
+        "plural_name": ""
+      },
+      "water": {
+        "name": "water",
+        "plural_name": ""
+      }
+    }
+  },
+  "alcohol": {
+    "name": "Alcool",
+    "foods": {
+      "white wine": {
+        "name": "white wine",
+        "plural_name": ""
+      },
+      "red wine": {
+        "name": "red wine",
+        "plural_name": ""
+      },
+      "whisky": {
+        "name": "whisky",
+        "plural_name": ""
+      },
+      "rum": {
+        "name": "rum",
+        "plural_name": ""
+      },
+      "vodka": {
+        "name": "vodka",
+        "plural_name": ""
+      },
+      "beer": {
+        "name": "beer",
+        "plural_name": ""
+      },
+      "orange liqueur": {
+        "name": "orange liqueur",
+        "plural_name": ""
+      },
+      "tequila": {
+        "name": "tequila",
+        "plural_name": ""
+      },
+      "sherry": {
+        "name": "sherry",
+        "plural_name": ""
+      },
+      "gin": {
+        "name": "gin",
+        "plural_name": ""
+      },
+      "brandy": {
+        "name": "brandy",
+        "plural_name": ""
+      },
+      "mirin": {
+        "name": "mirin",
+        "plural_name": ""
+      },
+      "coffee liqueur": {
+        "name": "coffee liqueur",
+        "plural_name": ""
+      },
+      "champagne": {
+        "name": "champagne",
+        "plural_name": ""
+      },
+      "vermouth": {
+        "name": "vermouth",
+        "plural_name": ""
+      },
+      "marsala wine": {
+        "name": "marsala wine",
+        "plural_name": ""
+      },
+      "sake": {
+        "name": "sake",
+        "plural_name": ""
+      },
+      "shaoxing wine": {
+        "name": "shaoxing wine",
+        "plural_name": ""
+      },
+      "wine": {
+        "name": "wine",
+        "plural_name": ""
+      }
+    }
+  },
+  "health-foods": {
+    "name": "Mâncare Sănătoasă",
+    "foods": {
+      "coconut milk": {
+        "name": "lapte de cocos",
+        "plural_name": ""
+      },
+      "almond milk": {
+        "name": "lapte de migdale",
+        "plural_name": ""
+      },
+      "tofu": {
+        "name": "tofu",
+        "plural_name": ""
+      },
+      "coconut cream": {
+        "name": "cremă de cocos",
+        "plural_name": ""
+      },
+      "soy milk": {
+        "name": "lapte de soia",
+        "plural_name": ""
+      },
+      "extra firm tofu": {
+        "name": "tofu extra ferm",
+        "plural_name": ""
+      },
+      "silken tofu": {
+        "name": "tofu mătăsos",
+        "plural_name": ""
+      },
+      "tempeh": {
+        "name": "tempeh",
+        "plural_name": ""
+      },
+      "oat milk": {
+        "name": "lapte de ovăz",
+        "plural_name": ""
+      },
+      "seitan": {
+        "name": "seitan",
+        "plural_name": ""
+      },
+      "nutritional yeast": {
+        "name": "nutritional yeast",
+        "plural_name": ""
+      },
+      "vegan cheese": {
+        "name": "brânză vegană",
+        "plural_name": ""
+      }
+    }
+  },
+  "household": {
+    "name": "Gospodărie",
+    "foods": {}
+  },
+  "other": {
+    "name": "Altele",
+    "foods": {
+      "ice": {
+        "name": "ice",
+        "plural_name": ""
+      }
+    }
+  }
+}

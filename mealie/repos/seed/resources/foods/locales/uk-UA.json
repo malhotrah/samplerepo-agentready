@@ -1,0 +1,2420 @@
+{
+  "produce": {
+    "name": "Фрукти та овочі",
+    "foods": {
+      "garlic": {
+        "name": "часник",
+        "plural_name": ""
+      },
+      "onion": {
+        "name": "цибуля",
+        "plural_name": "цибулі"
+      },
+      "bell pepper": {
+        "name": "болгарський перець",
+        "plural_name": "болгарські перці"
+      },
+      "carrot": {
+        "name": "морква",
+        "plural_name": "моркви"
+      },
+      "scallion": {
+        "name": "зелена цибуля",
+        "plural_name": "зелені цибулі"
+      },
+      "zucchini": {
+        "name": "цукіні",
+        "plural_name": "цукіні"
+      },
+      "potato": {
+        "name": "картопля",
+        "plural_name": "картоплини"
+      },
+      "red onion": {
+        "name": "червона цибуля",
+        "plural_name": "червоні цибулі"
+      },
+      "yellow onion": {
+        "name": "жовта цибуля",
+        "plural_name": "жовті цибулі"
+      },
+      "celery": {
+        "name": "селера",
+        "plural_name": ""
+      },
+      "jalapeño": {
+        "name": "халапеньйо",
+        "plural_name": "халапеньйо"
+      },
+      "avocado": {
+        "name": "авокадо",
+        "plural_name": "авокадо"
+      },
+      "shallot": {
+        "name": "цибуля шалот",
+        "plural_name": "цибулі шалот"
+      },
+      "cherry tomato": {
+        "name": "помідор чері",
+        "plural_name": "помідори чері"
+      },
+      "cucumber": {
+        "name": "Огірок",
+        "plural_name": "огірки"
+      },
+      "spinach": {
+        "name": "шпинат",
+        "plural_name": ""
+      },
+      "sweet corn": {
+        "name": "солодка кукурудза",
+        "plural_name": ""
+      },
+      "chile pepper": {
+        "name": "перець чилі",
+        "plural_name": "перці чилі"
+      },
+      "sweet potato": {
+        "name": "батат",
+        "plural_name": "батати"
+      },
+      "broccoli": {
+        "name": "брокколі",
+        "plural_name": ""
+      },
+      "heart of palm": {
+        "name": "серцевина пальми",
+        "plural_name": "серцевини пальми"
+      },
+      "pumpkin": {
+        "name": "гарбуз",
+        "plural_name": "гарбузи"
+      },
+      "cauliflower": {
+        "name": "цвітна капуста",
+        "plural_name": ""
+      },
+      "cabbage": {
+        "name": "капуста",
+        "plural_name": "капусти"
+      },
+      "asparagus": {
+        "name": "спаржа",
+        "plural_name": ""
+      },
+      "kale": {
+        "name": "капуста калі",
+        "plural_name": ""
+      },
+      "arugula": {
+        "name": "рукола",
+        "plural_name": ""
+      },
+      "leek": {
+        "name": "цибуля-порей",
+        "plural_name": "цибулі-порей"
+      },
+      "eggplant": {
+        "name": "баклажан",
+        "plural_name": "баклажани"
+      },
+      "lettuce": {
+        "name": "салат латук",
+        "plural_name": ""
+      },
+      "butternut squash": {
+        "name": "мускатний гарбуз",
+        "plural_name": "мускатні гарбузи"
+      },
+      "romaine lettuce": {
+        "name": "салат ромен",
+        "plural_name": ""
+      },
+      "beetroot": {
+        "name": "буряк",
+        "plural_name": "буряки"
+      },
+      "brussels sprout": {
+        "name": "брюссельська капуста",
+        "plural_name": "брюссельські капусти"
+      },
+      "fennel": {
+        "name": "кріп",
+        "plural_name": ""
+      },
+      "sun dried tomato": {
+        "name": "вялені помідори",
+        "plural_name": "вялені помідори"
+      },
+      "radish": {
+        "name": "редис",
+        "plural_name": "редиски"
+      },
+      "red cabbage": {
+        "name": "червона капуста",
+        "plural_name": "червоні капустини"
+      },
+      "artichoke": {
+        "name": "Артишок",
+        "plural_name": "Артишоки"
+      },
+      "parsnip": {
+        "name": "Пастернак",
+        "plural_name": "Пастернаки"
+      },
+      "poblano pepper": {
+        "name": "Перець Поблано",
+        "plural_name": "Перці Поблано"
+      },
+      "green tomato": {
+        "name": "Помідор зелений",
+        "plural_name": "Помідори зелені"
+      },
+      "horseradish": {
+        "name": "Хрін",
+        "plural_name": ""
+      },
+      "chard": {
+        "name": "Мангольд або буряк листовий",
+        "plural_name": ""
+      },
+      "spaghetti squash": {
+        "name": "Кабачок-спагеті",
+        "plural_name": "Кабачки-спагеті "
+      },
+      "napa cabbage": {
+        "name": "Капусти китайські",
+        "plural_name": "Капуста пекінська"
+      },
+      "celeriac": {
+        "name": "Капусти пекінські",
+        "plural_name": ""
+      },
+      "turnip": {
+        "name": "Ріпа",
+        "plural_name": "Ріпи"
+      },
+      "bok choy": {
+        "name": "Бок-чой",
+        "plural_name": ""
+      },
+      "okra": {
+        "name": "Бамія їстівна",
+        "plural_name": ""
+      },
+      "radicchio": {
+        "name": "Салат Радіккіо",
+        "plural_name": ""
+      },
+      "plantain": {
+        "name": "Плантан",
+        "plural_name": "Плантани"
+      },
+      "collard greens": {
+        "name": "листова капуста",
+        "plural_name": ""
+      },
+      "baby corn": {
+        "name": "Кукурудза бейбі",
+        "plural_name": ""
+      },
+      "broccoli rabe": {
+        "name": "Броколі рабе",
+        "plural_name": ""
+      },
+      "tomato": {
+        "name": "помідор",
+        "plural_name": "помідори"
+      },
+      "lemon": {
+        "name": "лимон",
+        "plural_name": "лимони"
+      },
+      "lime": {
+        "name": "лайм",
+        "plural_name": "лайми"
+      },
+      "apple": {
+        "name": "яблуко",
+        "plural_name": "яблука"
+      },
+      "banana": {
+        "name": "банан",
+        "plural_name": "банани"
+      },
+      "orange": {
+        "name": "апельсин",
+        "plural_name": "апельсини"
+      },
+      "raisin": {
+        "name": "родзинка",
+        "plural_name": "родзинки"
+      },
+      "pineapple": {
+        "name": "ананас",
+        "plural_name": "ананаси"
+      },
+      "mango": {
+        "name": "манго",
+        "plural_name": "манго"
+      },
+      "peach": {
+        "name": "Персик",
+        "plural_name": "Персики"
+      },
+      "date": {
+        "name": "дата",
+        "plural_name": "дати"
+      },
+      "coconut": {
+        "name": "Кокос",
+        "plural_name": "кокоси"
+      },
+      "pear": {
+        "name": "Груша",
+        "plural_name": "Груші"
+      },
+      "grape": {
+        "name": "Виноград",
+        "plural_name": "Винограду"
+      },
+      "pomegranate": {
+        "name": "Гранат",
+        "plural_name": "Гранати"
+      },
+      "watermelon": {
+        "name": "Кавун",
+        "plural_name": "Кавунів"
+      },
+      "rhubarb": {
+        "name": "Ревінь",
+        "plural_name": ""
+      },
+      "kiwi": {
+        "name": "Ківі",
+        "plural_name": "ківі"
+      },
+      "grapefruit": {
+        "name": "Грейпфрут",
+        "plural_name": "Грейпфрутів"
+      },
+      "plum": {
+        "name": "Слива",
+        "plural_name": "Слив"
+      },
+      "fig": {
+        "name": "Інжир",
+        "plural_name": "Інжиру"
+      },
+      "apricot": {
+        "name": "Абрикос",
+        "plural_name": "Абрикосів"
+      },
+      "mandarin": {
+        "name": "Мандарин",
+        "plural_name": "Мандаринів"
+      },
+      "cantaloupe": {
+        "name": "Диня Канталуп",
+        "plural_name": "Динь Канталуп"
+      },
+      "tamarind": {
+        "name": "Тамаринд",
+        "plural_name": "Тамариндів"
+      },
+      "button mushroom": {
+        "name": "Печериця садова",
+        "plural_name": "Печериці садові"
+      },
+      "shiitake mushroom": {
+        "name": "Гриб Шиїтаке",
+        "plural_name": "Грибів Шиїтаке"
+      },
+      "portobello mushroom": {
+        "name": "Гриб Портобелло",
+        "plural_name": "Грибів Портобелло"
+      },
+      "pea": {
+        "name": "Горох",
+        "plural_name": "Гороху"
+      },
+      "green bean": {
+        "name": "Стручкова (зелена) квасоля",
+        "plural_name": "Стручкової (зеленої) квасолі"
+      },
+      "snow pea": {
+        "name": "Сніжний горошок",
+        "plural_name": "Сніжного горошку"
+      },
+      "snap pea": {
+        "name": "Цукровий горошок",
+        "plural_name": "Цукрового горошка"
+      },
+      "bean sprout": {
+        "name": "Проростки квасолі",
+        "plural_name": "Проростків квасолі"
+      },
+      "edamame": {
+        "name": "Едамаме",
+        "plural_name": ""
+      },
+      "strawberry": {
+        "name": "Полуниця",
+        "plural_name": "полуниці"
+      },
+      "blueberry": {
+        "name": "Лохина (чи чорниця)",
+        "plural_name": "лохини"
+      },
+      "raspberry": {
+        "name": "Малина",
+        "plural_name": "малини"
+      },
+      "cranberry": {
+        "name": "Журавлина",
+        "plural_name": "журавлини"
+      },
+      "cherry": {
+        "name": "Вишня",
+        "plural_name": "Вишні"
+      },
+      "blackberry": {
+        "name": "Ожина",
+        "plural_name": "ожини"
+      },
+      "parsley": {
+        "name": "петрушка",
+        "plural_name": ""
+      },
+      "cilantro": {
+        "name": "коріандр",
+        "plural_name": ""
+      },
+      "basil": {
+        "name": "базилік",
+        "plural_name": ""
+      },
+      "ginger root": {
+        "name": "коріння імбиру",
+        "plural_name": ""
+      },
+      "chive": {
+        "name": "цибуля-трибулька",
+        "plural_name": "цибулі шніт"
+      },
+      "mint": {
+        "name": "м'ята",
+        "plural_name": ""
+      },
+      "lemongrass": {
+        "name": "лемонграс",
+        "plural_name": ""
+      },
+      "thai basil": {
+        "name": "тайський базилік",
+        "plural_name": ""
+      },
+      "mushroom": {
+        "name": "mushroom",
+        "plural_name": "mushrooms"
+      },
+      "corn": {
+        "name": "corn",
+        "plural_name": ""
+      },
+      "green onion": {
+        "name": "green onion",
+        "plural_name": "green onions"
+      },
+      "lemon juice": {
+        "name": "lemon juice",
+        "plural_name": ""
+      },
+      "lime juice": {
+        "name": "lime juice",
+        "plural_name": ""
+      }
+    }
+  },
+  "grains": {
+    "name": "Зерна",
+    "foods": {
+      "rolled oat": {
+        "name": "Вівсяні пластівці",
+        "plural_name": "Вівсяних пластівців"
+      },
+      "rice": {
+        "name": "Рис",
+        "plural_name": ""
+      },
+      "quinoa": {
+        "name": "Кіноа",
+        "plural_name": ""
+      },
+      "basmati rice": {
+        "name": "Рис басматі",
+        "plural_name": ""
+      },
+      "brown rice": {
+        "name": "Коричневий рис",
+        "plural_name": ""
+      },
+      "risotto rice": {
+        "name": "Рис для ризотто",
+        "plural_name": ""
+      },
+      "couscous": {
+        "name": "couscous",
+        "plural_name": ""
+      },
+      "wild rice": {
+        "name": "Дикий рис",
+        "plural_name": ""
+      },
+      "semolina": {
+        "name": "Манна крупа",
+        "plural_name": ""
+      },
+      "jasmine rice": {
+        "name": "Рис жасмин",
+        "plural_name": ""
+      },
+      "polenta": {
+        "name": "Полента",
+        "plural_name": ""
+      },
+      "granola cereal": {
+        "name": "Гранола",
+        "plural_name": ""
+      },
+      "bulgur": {
+        "name": "Булгур",
+        "plural_name": ""
+      },
+      "barley": {
+        "name": "Ячмінь",
+        "plural_name": ""
+      },
+      "steel cut oat": {
+        "name": "Різаний овес",
+        "plural_name": "плющеної вівсяної крупи"
+      },
+      "millet": {
+        "name": "Просо",
+        "plural_name": ""
+      },
+      "sushi rice": {
+        "name": "рис для суші",
+        "plural_name": ""
+      },
+      "hominy": {
+        "name": "Нікстамалізована кукурудза",
+        "plural_name": ""
+      },
+      "chickpea": {
+        "name": "Нут",
+        "plural_name": "Нуту"
+      },
+      "black bean": {
+        "name": "Чорна квасоля",
+        "plural_name": "Чорної квасолі"
+      },
+      "kidney bean": {
+        "name": "Квасоля Кідні Червона",
+        "plural_name": "Квасолі Кідні Червоної"
+      },
+      "white bean": {
+        "name": "Біла квасоля",
+        "plural_name": "Білої квасолі"
+      },
+      "lentil": {
+        "name": "Сочевиця",
+        "plural_name": "Сочевиці"
+      },
+      "pinto bean": {
+        "name": "Квасоля пінто",
+        "plural_name": "Квасолі пінто"
+      },
+      "red lentil": {
+        "name": "Червона сочевиця",
+        "plural_name": "Червоної сочевиці"
+      },
+      "cannellini bean": {
+        "name": "Квасоля каннелліні",
+        "plural_name": "Квасолі каннелліні"
+      },
+      "black-eyed pea": {
+        "name": "Коров'ячий горох",
+        "plural_name": "Коров'ячого гороху"
+      },
+      "split pea": {
+        "name": "Колотий горох",
+        "plural_name": "Колотого гороху"
+      },
+      "mung bean": {
+        "name": "Боби маш",
+        "plural_name": "Бобів маш"
+      },
+      "spaghetti": {
+        "name": "Спагеті",
+        "plural_name": ""
+      },
+      "macaroni": {
+        "name": "Макарони",
+        "plural_name": ""
+      },
+      "egg noodle": {
+        "name": "Яєчна локшина",
+        "plural_name": "Яєчної локшини"
+      },
+      "spiral pasta": {
+        "name": "Спіральна паста",
+        "plural_name": ""
+      },
+      "lasagna noodle": {
+        "name": "Лист для лазаньї",
+        "plural_name": "Листи для лазаньї"
+      },
+      "linguine": {
+        "name": "Лінгвіне",
+        "plural_name": ""
+      },
+      "fettuccine": {
+        "name": "Фетучині",
+        "plural_name": ""
+      },
+      "orzo": {
+        "name": "Орзо паста",
+        "plural_name": ""
+      },
+      "pasta shell": {
+        "name": "Конкільє паста",
+        "plural_name": "Конкільє пасти"
+      },
+      "noodle": {
+        "name": "Локшина",
+        "plural_name": "Локшини"
+      },
+      "tortellini": {
+        "name": "Тортелліні",
+        "plural_name": ""
+      },
+      "rice noodle": {
+        "name": "Рисова локшина",
+        "plural_name": "Рисової локшини"
+      },
+      "rigatoni": {
+        "name": "Рігатоні",
+        "plural_name": ""
+      },
+      "gnocchi": {
+        "name": "Ньоккі",
+        "plural_name": ""
+      },
+      "ramen noodle": {
+        "name": "Локшина рамен",
+        "plural_name": "Локшини рамен"
+      },
+      "soba noodle": {
+        "name": "Соба локшина",
+        "plural_name": "Соба локшини"
+      },
+      "ravioli": {
+        "name": "Равіолі",
+        "plural_name": ""
+      },
+      "udon noodle": {
+        "name": "Удон локшина",
+        "plural_name": "Удон локшини"
+      },
+      "manicotti": {
+        "name": "Манікотті",
+        "plural_name": ""
+      },
+      "farro": {
+        "name": "Полба",
+        "plural_name": ""
+      },
+      "pasta": {
+        "name": "pasta",
+        "plural_name": ""
+      },
+      "penne": {
+        "name": "penne",
+        "plural_name": ""
+      },
+      "farfalle": {
+        "name": "farfalle",
+        "plural_name": ""
+      }
+    }
+  },
+  "meat": {
+    "name": "М’ясо",
+    "foods": {
+      "ground beef": {
+        "name": "Яловичий фарш",
+        "plural_name": ""
+      },
+      "beef steak": {
+        "name": "Яловичий стейк",
+        "plural_name": "Яловичого стейку"
+      },
+      "pork chop": {
+        "name": "Cвиняча відбивна",
+        "plural_name": "Cвинячі відбивні"
+      },
+      "pork loin": {
+        "name": "Свиняча вирізка",
+        "plural_name": "Свинячої вирізки"
+      },
+      "beef roast": {
+        "name": "Яловичина смажена",
+        "plural_name": "Яловичини смаженої"
+      },
+      "ground pork": {
+        "name": "Свинячий фарш",
+        "plural_name": ""
+      },
+      "beef stew meat": {
+        "name": "Яловичина тушкована",
+        "plural_name": ""
+      },
+      "pork fillet": {
+        "name": "Свиняче філе",
+        "plural_name": "Свинячого філе"
+      },
+      "pork shoulder": {
+        "name": "Свиняча лопатка",
+        "plural_name": ""
+      },
+      "ground lamb": {
+        "name": "Фарш з ягняти",
+        "plural_name": ""
+      },
+      "pork rib": {
+        "name": "Свинячі реберця",
+        "plural_name": "Свинячих реберць"
+      },
+      "beef sirloin": {
+        "name": "Яловича вирізка",
+        "plural_name": "Яловичі вирізки"
+      },
+      "brisket": {
+        "name": "Грудинка",
+        "plural_name": ""
+      },
+      "leg of lamb": {
+        "name": "Нога ягня",
+        "plural_name": "Ноги ягня"
+      },
+      "beef short rib": {
+        "name": "\nЯловичі короткі реберця\n",
+        "plural_name": "Яловичі короткі реберця"
+      },
+      "pork belly": {
+        "name": "Свиняче черево",
+        "plural_name": ""
+      },
+      "lamb chop": {
+        "name": "Відбивна з ягня",
+        "plural_name": "Відбивні з ягня"
+      },
+      "venison": {
+        "name": "Оленина",
+        "plural_name": ""
+      },
+      "oxtail": {
+        "name": "Яловичий хвіст",
+        "plural_name": "Яловичі хвости"
+      },
+      "chicken breast": {
+        "name": "Куряча грудка",
+        "plural_name": "Курячі грудки"
+      },
+      "chicken thigh": {
+        "name": "Куряче стегно",
+        "plural_name": "Курячі стегна"
+      },
+      "ground turkey": {
+        "name": "Фарш з індички",
+        "plural_name": ""
+      },
+      "whole chicken": {
+        "name": "Ціле курча",
+        "plural_name": "Цілі курча"
+      },
+      "whole turkey": {
+        "name": "Ціла індичка",
+        "plural_name": "Цілі індички"
+      },
+      "chicken leg": {
+        "name": "Куряча ніжка",
+        "plural_name": "Курячі ніжки"
+      },
+      "chicken wing": {
+        "name": "Куряче крило",
+        "plural_name": "Курячі крильця"
+      },
+      "turkey breast": {
+        "name": "Грудка індички",
+        "plural_name": "Грудки індички"
+      },
+      "ground chicken": {
+        "name": "Курячий фарш",
+        "plural_name": ""
+      },
+      "rotisserie chicken": {
+        "name": "Курка-гриль",
+        "plural_name": "Курки-гриль"
+      },
+      "duck": {
+        "name": "Качка",
+        "plural_name": "Качки"
+      },
+      "chicken liver": {
+        "name": "Куряча печінка",
+        "plural_name": "Курячі печінки"
+      },
+      "cornish hen": {
+        "name": "Молода курка",
+        "plural_name": "Молодих кур"
+      },
+      "veal": {
+        "name": "veal",
+        "plural_name": ""
+      },
+      "chicken": {
+        "name": "chicken",
+        "plural_name": ""
+      },
+      "beef": {
+        "name": "beef",
+        "plural_name": ""
+      },
+      "pork": {
+        "name": "pork",
+        "plural_name": ""
+      },
+      "lamb": {
+        "name": "lamb",
+        "plural_name": ""
+      },
+      "turkey": {
+        "name": "turkey",
+        "plural_name": ""
+      }
+    }
+  },
+  "meat-products": {
+    "name": "М'ясні Продукти",
+    "foods": {
+      "bacon": {
+        "name": "Бекон",
+        "plural_name": ""
+      },
+      "ham": {
+        "name": "Шинка",
+        "plural_name": ""
+      },
+      "prosciutto": {
+        "name": "Прошуто",
+        "plural_name": ""
+      },
+      "sausage": {
+        "name": "Ковбаса",
+        "plural_name": "Ковбаси"
+      },
+      "pepperoni": {
+        "name": "Пепероні",
+        "plural_name": "пепероні"
+      },
+      "chorizo": {
+        "name": "Чорисо",
+        "plural_name": ""
+      },
+      "pancetta": {
+        "name": "Панчета ",
+        "plural_name": ""
+      },
+      "breakfast sausage": {
+        "name": "Ковбаса для сніданку",
+        "plural_name": "Ковбаси для сніданку"
+      },
+      "hot dog": {
+        "name": "Хот-дог",
+        "plural_name": "Хот-доги"
+      },
+      "salami": {
+        "name": "Салямі",
+        "plural_name": ""
+      },
+      "kielbasa": {
+        "name": "Польска ковбаса",
+        "plural_name": ""
+      },
+      "corned beef": {
+        "name": "Корн-біф",
+        "plural_name": ""
+      }
+    }
+  },
+  "seafood": {
+    "name": "Морепродукти",
+    "foods": {
+      "bonito flake": {
+        "name": "Стружка боніто",
+        "plural_name": "Стружки боніто"
+      },
+      "salmon": {
+        "name": "Лосось",
+        "plural_name": ""
+      },
+      "smoked salmon": {
+        "name": "Копчений лосось",
+        "plural_name": ""
+      },
+      "cod": {
+        "name": "Тріска",
+        "plural_name": ""
+      },
+      "tilapia": {
+        "name": "Тілапія",
+        "plural_name": ""
+      },
+      "halibut": {
+        "name": "Палтус",
+        "plural_name": ""
+      },
+      "trout": {
+        "name": "Форель",
+        "plural_name": ""
+      },
+      "catfish": {
+        "name": "Сом",
+        "plural_name": ""
+      },
+      "sardine": {
+        "name": "Сардина",
+        "plural_name": "Сардин"
+      },
+      "haddock": {
+        "name": "пікша",
+        "plural_name": ""
+      },
+      "shrimp": {
+        "name": "Креветка",
+        "plural_name": ""
+      },
+      "crab": {
+        "name": "Краб",
+        "plural_name": "Краби"
+      },
+      "scallop": {
+        "name": "Гребінець",
+        "plural_name": "Гребінці"
+      },
+      "mussel": {
+        "name": "Мідія",
+        "plural_name": "Мідії"
+      },
+      "clam": {
+        "name": "Молюск",
+        "plural_name": "Молюски"
+      },
+      "squid": {
+        "name": "Кальмар",
+        "plural_name": ""
+      },
+      "nori": {
+        "name": "Норі",
+        "plural_name": ""
+      },
+      "lobster": {
+        "name": "Лобстер",
+        "plural_name": "Лобстери"
+      },
+      "oyster": {
+        "name": "Устриця",
+        "plural_name": "Устриці"
+      },
+      "octopus": {
+        "name": "восьминіг",
+        "plural_name": "восьминоги"
+      },
+      "fish": {
+        "name": "fish",
+        "plural_name": ""
+      },
+      "tuna": {
+        "name": "tuna",
+        "plural_name": ""
+      }
+    }
+  },
+  "dairy-products": {
+    "name": "Молочні продукти",
+    "foods": {
+      "parmesan cheese": {
+        "name": "сир пармезан",
+        "plural_name": ""
+      },
+      "cheddar cheese": {
+        "name": "сир чедер",
+        "plural_name": ""
+      },
+      "cream cheese": {
+        "name": "вершковий сир",
+        "plural_name": ""
+      },
+      "cheese": {
+        "name": "сир",
+        "plural_name": ""
+      },
+      "mozzarella cheese": {
+        "name": "моцарела",
+        "plural_name": ""
+      },
+      "feta cheese": {
+        "name": "фета",
+        "plural_name": ""
+      },
+      "ricotta cheese": {
+        "name": "рікотта",
+        "plural_name": ""
+      },
+      "monterey jack cheese": {
+        "name": "cир Монтерей Джек",
+        "plural_name": ""
+      },
+      "blue cheese": {
+        "name": "сир з пліснявою",
+        "plural_name": ""
+      },
+      "goat cheese": {
+        "name": "козячий сир",
+        "plural_name": ""
+      },
+      "swiss cheese": {
+        "name": "швейцарський сир",
+        "plural_name": ""
+      },
+      "gruyere cheese": {
+        "name": "сир грюйер",
+        "plural_name": ""
+      },
+      "mascarpone cheese": {
+        "name": "сир маскарпоне",
+        "plural_name": ""
+      },
+      "cottage cheese": {
+        "name": "кисломолочний сир",
+        "plural_name": ""
+      },
+      "american cheese": {
+        "name": "американський сир",
+        "plural_name": ""
+      },
+      "brie cheese": {
+        "name": "сир брі",
+        "plural_name": ""
+      },
+      "paneer cheese": {
+        "name": "сир панір",
+        "plural_name": ""
+      },
+      "fontina cheese": {
+        "name": "сир фонтіна",
+        "plural_name": ""
+      },
+      "queso fresco cheese": {
+        "name": "сир кесо фреско",
+        "plural_name": ""
+      },
+      "halloumi cheese": {
+        "name": "сир халумі",
+        "plural_name": ""
+      },
+      "italian cheese blend": {
+        "name": "суміш італійських сирів",
+        "plural_name": ""
+      },
+      "butter": {
+        "name": "Вершкове масло",
+        "plural_name": ""
+      },
+      "egg": {
+        "name": "Яйце",
+        "plural_name": "Яйця"
+      },
+      "milk": {
+        "name": "Молоко",
+        "plural_name": ""
+      },
+      "heavy cream": {
+        "name": "Жирні вершки",
+        "plural_name": ""
+      },
+      "sour cream": {
+        "name": "Сметана",
+        "plural_name": ""
+      },
+      "buttermilk": {
+        "name": "Маслянка",
+        "plural_name": ""
+      },
+      "yogurt": {
+        "name": "Йогурт",
+        "plural_name": ""
+      },
+      "greek yogurt": {
+        "name": "Грецький йогурт",
+        "plural_name": ""
+      },
+      "cream": {
+        "name": "Вершки",
+        "plural_name": ""
+      },
+      "whipped cream": {
+        "name": "Збиті вершки",
+        "plural_name": ""
+      },
+      "ghee": {
+        "name": "Масло Гхи",
+        "plural_name": ""
+      },
+      "half and half": {
+        "name": "П'ятдесят на п'ятдесят",
+        "plural_name": ""
+      },
+      "sweetened condensed milk": {
+        "name": "Згущене молоко солодке",
+        "plural_name": ""
+      },
+      "kefir": {
+        "name": "Кефір",
+        "plural_name": ""
+      },
+      "provolone cheese": {
+        "name": "сир проволоне",
+        "plural_name": ""
+      },
+      "egg white": {
+        "name": "egg white",
+        "plural_name": "egg whites"
+      },
+      "egg yolk": {
+        "name": "egg yolk",
+        "plural_name": "egg yolks"
+      }
+    }
+  },
+  "baked-goods": {
+    "name": "Печені страви",
+    "foods": {
+      "pie crust": {
+        "name": "Корж для пирога",
+        "plural_name": "Коржи для пирога"
+      },
+      "puff pastry": {
+        "name": "Листкове тісто",
+        "plural_name": "Листкового тіста"
+      },
+      "pizza dough": {
+        "name": "Тісто для піци",
+        "plural_name": ""
+      },
+      "phyllo": {
+        "name": "Тісто філо",
+        "plural_name": ""
+      },
+      "dumpling wrapper": {
+        "name": "Тісто для пельменів",
+        "plural_name": "Тіста для пельменів"
+      },
+      "rice paper": {
+        "name": "Рисовий папір",
+        "plural_name": ""
+      },
+      "bread": {
+        "name": "Хліб",
+        "plural_name": ""
+      },
+      "bread crumb": {
+        "name": "Панірувальні сухарі",
+        "plural_name": "Панірувальних сухарів"
+      },
+      "panko": {
+        "name": "Панко",
+        "plural_name": ""
+      },
+      "flour tortilla": {
+        "name": "Пшенична тортилья",
+        "plural_name": "Пшеничної тортильї"
+      },
+      "corn tortilla": {
+        "name": "Кукурудзяна тортилья",
+        "plural_name": "Кукурудзяні тортильї"
+      },
+      "baguette": {
+        "name": "Багет",
+        "plural_name": "Багети"
+      },
+      "pita": {
+        "name": "Піта",
+        "plural_name": "Піти"
+      },
+      "sourdough bread": {
+        "name": "хліб на заквасці",
+        "plural_name": ""
+      },
+      "crouton": {
+        "name": "крутон",
+        "plural_name": "крутони"
+      },
+      "english muffin": {
+        "name": "Англійський мафін",
+        "plural_name": "Англійські мафіни"
+      },
+      "brioche": {
+        "name": "Бріош",
+        "plural_name": ""
+      },
+      "rye bread": {
+        "name": "Житній хліб",
+        "plural_name": ""
+      },
+      "naan": {
+        "name": "Наан",
+        "plural_name": "Наанів"
+      },
+      "taco shell": {
+        "name": "Тортилья для тако",
+        "plural_name": "Тортильї для тако"
+      },
+      "bagel": {
+        "name": "Бейгл",
+        "plural_name": "Бейгли"
+      },
+      "croissant": {
+        "name": "Круасан",
+        "plural_name": "Круасани"
+      },
+      "hawaiian roll": {
+        "name": "Гавайська булочка",
+        "plural_name": "Гавайських булочок"
+      },
+      "challah": {
+        "name": "Хала",
+        "plural_name": ""
+      },
+      "bao bun": {
+        "name": "Парова булочка бао",
+        "plural_name": "Парові булочки бао"
+      }
+    }
+  },
+  "canned-goods": {
+    "name": "Консерви",
+    "foods": {
+      "canned tomato": {
+        "name": "Консервовані помідори",
+        "plural_name": "Консервованих помідорів"
+      },
+      "caper": {
+        "name": "Каперси",
+        "plural_name": "Каперсів"
+      },
+      "green olive": {
+        "name": "Зелені оливки",
+        "plural_name": "Зелених оливок"
+      },
+      "canned chickpea": {
+        "name": "Консервований нут",
+        "plural_name": "Консервованого нуту"
+      },
+      "black olive": {
+        "name": "Чорні оливки",
+        "plural_name": "Чорних оливок"
+      },
+      "canned black bean": {
+        "name": "Консервована чорна квасоля",
+        "plural_name": "Консервованої чорної квасолі"
+      },
+      "canned pumpkin": {
+        "name": "Консервований гарбуз",
+        "plural_name": ""
+      },
+      "kalamata olive": {
+        "name": "Оливки Каламата",
+        "plural_name": "Оливок Каламата"
+      },
+      "canned tuna": {
+        "name": "Консервований тунець",
+        "plural_name": ""
+      },
+      "pickle": {
+        "name": "Маринований огірок",
+        "plural_name": "Мариновані огірки"
+      },
+      "chipotle in adobo": {
+        "name": "Перець Чипотле в соусі адобо",
+        "plural_name": "Перців Чипотле в соусі адобо"
+      },
+      "canned anchovy": {
+        "name": "Консервовані анчоуси",
+        "plural_name": "Консервованих анчоусів"
+      },
+      "roasted red pepper": {
+        "name": "Запечений червоний перець",
+        "plural_name": "Запечені червоні переці"
+      },
+      "canned artichoke": {
+        "name": "Консервований артишок",
+        "plural_name": "Консервовані артишоки"
+      },
+      "canned corn": {
+        "name": "Консервована кукурудза",
+        "plural_name": ""
+      },
+      "canned kidney bean": {
+        "name": "Консервована квасоля «Кідні»",
+        "plural_name": "Консервованої квасолі «Кідні»"
+      },
+      "refried bean": {
+        "name": "Фріхолес рефрітос",
+        "plural_name": "пересмажені квасолеві боби"
+      },
+      "canned whole tomato": {
+        "name": "Консервовані цілі помідори",
+        "plural_name": "Консервованих цілих помідорів"
+      },
+      "sweet pickle relish": {
+        "name": "Солодкий огірковий реліш",
+        "plural_name": ""
+      },
+      "sauerkraut": {
+        "name": "Квашена капуста",
+        "plural_name": ""
+      },
+      "creamed corn": {
+        "name": "Кукурудза в вершковому соусі",
+        "plural_name": ""
+      },
+      "pickled jalapeño": {
+        "name": "pickled jalapeño",
+        "plural_name": "pickled jalapeños"
+      },
+      "diced green chile": {
+        "name": "Консервований різаний зелений чилі",
+        "plural_name": "Консервованого різаного зеленого чилі"
+      },
+      "sun-dried tomato in oil": {
+        "name": "В'ялені помідори в олії",
+        "plural_name": "В'ялених помідорів в олії"
+      },
+      "kimchi": {
+        "name": "Кімчі",
+        "plural_name": ""
+      },
+      "baked bean": {
+        "name": "Запечені боби в томатному соусі",
+        "plural_name": "Запечених бобів в томатному соусі"
+      },
+      "canned salmon": {
+        "name": "Консервований лосось",
+        "plural_name": ""
+      },
+      "canned clam": {
+        "name": " Морепродукти консервовані",
+        "plural_name": " Морепродуктів консервованих"
+      },
+      "canned baby corn": {
+        "name": "Консервовані початки міні кукурудзи",
+        "plural_name": ""
+      },
+      "canned sardine": {
+        "name": "Консервовані сардини",
+        "plural_name": "Консервованих сардин"
+      },
+      "aquafaba": {
+        "name": "Аквафаба",
+        "plural_name": ""
+      },
+      "chicken broth": {
+        "name": "chicken broth",
+        "plural_name": ""
+      },
+      "vegetable broth": {
+        "name": "vegetable broth",
+        "plural_name": ""
+      },
+      "chicken stock": {
+        "name": "chicken stock",
+        "plural_name": ""
+      },
+      "beef broth": {
+        "name": "beef broth",
+        "plural_name": ""
+      },
+      "beef stock": {
+        "name": "beef stock",
+        "plural_name": ""
+      },
+      "cream of mushroom": {
+        "name": "cream of mushroom",
+        "plural_name": ""
+      },
+      "bouillon cube": {
+        "name": "bouillon cube",
+        "plural_name": "bouillon cubes"
+      },
+      "cream of chicken": {
+        "name": "cream of chicken",
+        "plural_name": ""
+      },
+      "tomato soup": {
+        "name": "tomato soup",
+        "plural_name": ""
+      },
+      "cream of celery": {
+        "name": "cream of celery",
+        "plural_name": ""
+      },
+      "clam juice": {
+        "name": "clam juice",
+        "plural_name": ""
+      },
+      "dashi": {
+        "name": "dashi",
+        "plural_name": ""
+      },
+      "olive": {
+        "name": "olive",
+        "plural_name": "olives"
+      },
+      "bean": {
+        "name": "bean",
+        "plural_name": "beans"
+      },
+      "stock": {
+        "name": "stock",
+        "plural_name": ""
+      },
+      "broth": {
+        "name": "broth",
+        "plural_name": ""
+      }
+    }
+  },
+  "frozen-foods": {
+    "name": "Заморожені продукти",
+    "foods": {}
+  },
+  "condiments": {
+    "name": "Приправи",
+    "foods": {
+      "soy sauce": {
+        "name": "Соєвий соус",
+        "plural_name": ""
+      },
+      "dijon mustard": {
+        "name": "Діжонська гірчиця",
+        "plural_name": ""
+      },
+      "hot sauce": {
+        "name": "Гострий соус",
+        "plural_name": ""
+      },
+      "worcestershire sauce": {
+        "name": "Ворчестерширський соус",
+        "plural_name": ""
+      },
+      "ketchup": {
+        "name": "Кетчуп",
+        "plural_name": ""
+      },
+      "mustard": {
+        "name": "Гірчиця",
+        "plural_name": ""
+      },
+      "fish sauce": {
+        "name": "Рибний соус",
+        "plural_name": ""
+      },
+      "bbq sauce": {
+        "name": "Соус BBQ барбекю",
+        "plural_name": ""
+      },
+      "sriracha": {
+        "name": "Шрірача",
+        "plural_name": ""
+      },
+      "wholegrain mustard": {
+        "name": "Зерниста гірчиця",
+        "plural_name": ""
+      },
+      "oyster sauce": {
+        "name": "Устричний соус",
+        "plural_name": ""
+      },
+      "teriyaki sauce": {
+        "name": "Соус теріякі",
+        "plural_name": ""
+      },
+      "prepared horseradish": {
+        "name": "Готовий хрін",
+        "plural_name": ""
+      },
+      "cranberry sauce": {
+        "name": "Журавлинний соус",
+        "plural_name": ""
+      },
+      "harissa": {
+        "name": "Харісса",
+        "plural_name": ""
+      },
+      "tamarind paste": {
+        "name": "Тамариндова паста",
+        "plural_name": ""
+      },
+      "gochujang": {
+        "name": "Кочуджан",
+        "plural_name": ""
+      },
+      "wasabi": {
+        "name": "Васабі",
+        "plural_name": ""
+      },
+      "sambal oelek": {
+        "name": "Самбал Улек",
+        "plural_name": ""
+      },
+      "preserved lemon": {
+        "name": "Солоний лимон",
+        "plural_name": "Солоних лимонів"
+      },
+      "thai sweet chili sauce": {
+        "name": "Тайський соус гостро-солодкий чилі",
+        "plural_name": ""
+      },
+      "tartar sauce": {
+        "name": "Соус тартар",
+        "plural_name": ""
+      },
+      "ponzu": {
+        "name": "Понзу",
+        "plural_name": ""
+      },
+      "peanut butter": {
+        "name": "peanut butter",
+        "plural_name": ""
+      },
+      "tomato paste": {
+        "name": "tomato paste",
+        "plural_name": ""
+      },
+      "tomato sauce": {
+        "name": "tomato sauce",
+        "plural_name": ""
+      },
+      "salsa": {
+        "name": "salsa",
+        "plural_name": "salsas"
+      },
+      "tahini": {
+        "name": "tahini",
+        "plural_name": ""
+      },
+      "pesto": {
+        "name": "pesto",
+        "plural_name": ""
+      },
+      "marinara sauce": {
+        "name": "marinara sauce",
+        "plural_name": ""
+      },
+      "pasta sauce": {
+        "name": "pasta sauce",
+        "plural_name": ""
+      },
+      "hoisin sauce": {
+        "name": "hoisin sauce",
+        "plural_name": ""
+      },
+      "hummus": {
+        "name": "hummus",
+        "plural_name": ""
+      },
+      "enchilada sauce": {
+        "name": "enchilada sauce",
+        "plural_name": ""
+      },
+      "salsa verde": {
+        "name": "salsa verde",
+        "plural_name": ""
+      },
+      "alfredo sauce": {
+        "name": "alfredo sauce",
+        "plural_name": ""
+      },
+      "balsamic glaze": {
+        "name": "balsamic glaze",
+        "plural_name": ""
+      },
+      "thai peanut sauce": {
+        "name": "thai peanut sauce",
+        "plural_name": ""
+      },
+      "mole sauce": {
+        "name": "mole sauce",
+        "plural_name": ""
+      },
+      "white miso": {
+        "name": "Біла місо-паста",
+        "plural_name": ""
+      },
+      "almond butter": {
+        "name": "Мигдалеве масло",
+        "plural_name": ""
+      },
+      "mayonnaise": {
+        "name": "Майонез",
+        "plural_name": ""
+      },
+      "apple cider vinegar": {
+        "name": "Яблучний оцет",
+        "plural_name": ""
+      },
+      "balsamic vinegar": {
+        "name": "Бальзамічний оцет",
+        "plural_name": ""
+      },
+      "vinegar": {
+        "name": "Оцет",
+        "plural_name": ""
+      },
+      "red wine vinegar": {
+        "name": "Червоний винний оцет",
+        "plural_name": ""
+      },
+      "rice wine vinegar": {
+        "name": "Рисовий оцет",
+        "plural_name": ""
+      },
+      "white wine vinegar": {
+        "name": "Білий винний оцет",
+        "plural_name": ""
+      },
+      "ranch dressing": {
+        "name": "Соус «Ранч»",
+        "plural_name": ""
+      },
+      "distilled white vinegar": {
+        "name": "Дистильований білий оцет",
+        "plural_name": ""
+      },
+      "sweet chili sauce": {
+        "name": "Соус солодкий чилі",
+        "plural_name": ""
+      },
+      "caesar dressing": {
+        "name": "Соус Цезар",
+        "plural_name": ""
+      },
+      "agave nectar": {
+        "name": "нектар агави",
+        "plural_name": ""
+      },
+      "honey": {
+        "name": "honey",
+        "plural_name": ""
+      }
+    }
+  },
+  "spices": {
+    "name": "Спеції",
+    "foods": {
+      "cayenne pepper": {
+        "name": "Перець каєнський",
+        "plural_name": ""
+      },
+      "cinnamon": {
+        "name": "кориця",
+        "plural_name": ""
+      },
+      "cumin": {
+        "name": "кумин",
+        "plural_name": ""
+      },
+      "thyme": {
+        "name": "чебрець",
+        "plural_name": ""
+      },
+      "garlic powder": {
+        "name": "порошок часниковий",
+        "plural_name": ""
+      },
+      "oregano": {
+        "name": "орегано (материнка)",
+        "plural_name": ""
+      },
+      "nutmeg": {
+        "name": "мускатний горіх",
+        "plural_name": ""
+      },
+      "chili flake": {
+        "name": "пластівці чилі",
+        "plural_name": "пластівці чилі"
+      },
+      "chili powder": {
+        "name": "порошок чилі",
+        "plural_name": ""
+      },
+      "paprika": {
+        "name": "паприка",
+        "plural_name": ""
+      },
+      "rosemary": {
+        "name": "розмарин",
+        "plural_name": ""
+      },
+      "bay leaf": {
+        "name": "лавровий лист",
+        "plural_name": "лаврові листя"
+      },
+      "turmeric": {
+        "name": "куркума",
+        "plural_name": ""
+      },
+      "clove": {
+        "name": "зубчик",
+        "plural_name": "зубчики"
+      },
+      "onion powder": {
+        "name": "порошок цибулі",
+        "plural_name": ""
+      },
+      "ginger powder": {
+        "name": "порошок імбиру",
+        "plural_name": ""
+      },
+      "dill": {
+        "name": "кріп",
+        "plural_name": ""
+      },
+      "green cardamom": {
+        "name": "зелений кардамон",
+        "plural_name": ""
+      },
+      "smoked paprika": {
+        "name": "копчена паприка",
+        "plural_name": ""
+      },
+      "sage": {
+        "name": "шавлія",
+        "plural_name": ""
+      },
+      "coriander": {
+        "name": "коріандр",
+        "plural_name": ""
+      },
+      "allspice": {
+        "name": "духмяний перець",
+        "plural_name": ""
+      },
+      "peppercorn": {
+        "name": "горошина перцю",
+        "plural_name": "горошини перцю"
+      },
+      "mustard seed": {
+        "name": "гірчичне зерно",
+        "plural_name": "гірчични зерна"
+      },
+      "white pepper": {
+        "name": "білий перець",
+        "plural_name": ""
+      },
+      "curry leaf": {
+        "name": "лист каррі",
+        "plural_name": "лисття каррі"
+      },
+      "fennel seed": {
+        "name": "насіння фенхелю",
+        "plural_name": "насіння фенхелю"
+      },
+      "tarragon": {
+        "name": "естрагон",
+        "plural_name": ""
+      },
+      "saffron": {
+        "name": "шафран",
+        "plural_name": ""
+      },
+      "asafoetida": {
+        "name": "асафетида",
+        "plural_name": ""
+      },
+      "star anise": {
+        "name": "зірочка анісу",
+        "plural_name": ""
+      },
+      "fenugreek": {
+        "name": "пажитник",
+        "plural_name": ""
+      },
+      "kaffir lime leaf": {
+        "name": "листя кафірського лайму",
+        "plural_name": "листя кафірського лайму"
+      },
+      "guajillo pepper": {
+        "name": "перець гуахільо",
+        "plural_name": "перці гуахільо"
+      },
+      "galangal": {
+        "name": "галангал",
+        "plural_name": ""
+      },
+      "aleppo pepper": {
+        "name": "перець алепський",
+        "plural_name": ""
+      },
+      "italian seasoning": {
+        "name": "Італійська приправа",
+        "plural_name": ""
+      },
+      "curry": {
+        "name": "Каррі",
+        "plural_name": ""
+      },
+      "garam masala": {
+        "name": "Гарам масала",
+        "plural_name": ""
+      },
+      "pumpkin pie spice": {
+        "name": "приправа для гарбузового пирога",
+        "plural_name": ""
+      },
+      "mustard powder": {
+        "name": "Порошок гірчиці",
+        "plural_name": ""
+      },
+      "taco seasoning": {
+        "name": "приправа для тако",
+        "plural_name": ""
+      },
+      "cajun seasoning": {
+        "name": "каджунська приправа",
+        "plural_name": ""
+      },
+      "chinese five spice": {
+        "name": "китайська приправа \"5 спецій\"",
+        "plural_name": ""
+      },
+      "chaat masala": {
+        "name": "Чат масала",
+        "plural_name": ""
+      },
+      "thai red curry paste": {
+        "name": "Тайська паста з червоного каррі",
+        "plural_name": ""
+      },
+      "za'atar": {
+        "name": "Затар",
+        "plural_name": ""
+      },
+      "ras el hanout": {
+        "name": "Рас-ель-ханут",
+        "plural_name": ""
+      },
+      "furikake": {
+        "name": "Фурікаке",
+        "plural_name": ""
+      },
+      "tom yum paste": {
+        "name": "паста том ям",
+        "plural_name": ""
+      },
+      "old bay seasoning": {
+        "name": "приправа \"old bay\"",
+        "plural_name": ""
+      },
+      "liquid smoke": {
+        "name": "рідкий дим",
+        "plural_name": ""
+      },
+      "salt": {
+        "name": "salt",
+        "plural_name": ""
+      },
+      "kosher salt": {
+        "name": "kosher salt",
+        "plural_name": ""
+      },
+      "sea salt": {
+        "name": "sea salt",
+        "plural_name": ""
+      },
+      "flaky salt": {
+        "name": "flaky salt",
+        "plural_name": ""
+      },
+      "black pepper": {
+        "name": "black pepper",
+        "plural_name": ""
+      }
+    }
+  },
+  "oils": {
+    "name": "Oils",
+    "foods": {
+      "shortening": {
+        "name": "Кулінарний жир",
+        "plural_name": ""
+      },
+      "olive oil": {
+        "name": "Оливкова олія",
+        "plural_name": ""
+      },
+      "vegetable oil": {
+        "name": "Рослинна олія",
+        "plural_name": ""
+      },
+      "canola oil": {
+        "name": "Рапсова олія",
+        "plural_name": ""
+      },
+      "coconut oil": {
+        "name": "Кокосова олія",
+        "plural_name": ""
+      },
+      "cooking spray": {
+        "name": "Кулінарний спрей",
+        "plural_name": ""
+      },
+      "sesame oil": {
+        "name": "Кунжутна олія",
+        "plural_name": ""
+      },
+      "avocado oil": {
+        "name": "Олія авокадо",
+        "plural_name": ""
+      },
+      "peanut oil": {
+        "name": "Арахісова олія",
+        "plural_name": ""
+      },
+      "lard": {
+        "name": "Смалець",
+        "plural_name": ""
+      },
+      "chili oil": {
+        "name": "Олія чилі",
+        "plural_name": ""
+      },
+      "truffle oil": {
+        "name": "Трюфельна олія",
+        "plural_name": ""
+      },
+      "duck fat": {
+        "name": "Качиний жир",
+        "plural_name": ""
+      },
+      "oil": {
+        "name": "oil",
+        "plural_name": ""
+      }
+    }
+  },
+  "baking": {
+    "name": "Baking",
+    "foods": {
+      "cocoa": {
+        "name": "Какао",
+        "plural_name": ""
+      },
+      "baking chocolate": {
+        "name": "Кондитерський шоколад",
+        "plural_name": ""
+      },
+      "sugar": {
+        "name": "цукор",
+        "plural_name": ""
+      },
+      "brown sugar": {
+        "name": "коричневий цукор",
+        "plural_name": ""
+      },
+      "confectioners sugar": {
+        "name": "Цукор кондитерський",
+        "plural_name": ""
+      },
+      "maple syrup": {
+        "name": "кленовий сироп",
+        "plural_name": ""
+      },
+      "corn syrup": {
+        "name": "кукурудзяний сироп",
+        "plural_name": ""
+      },
+      "molasses": {
+        "name": "molasses",
+        "plural_name": ""
+      },
+      "stevia": {
+        "name": "стевія",
+        "plural_name": ""
+      },
+      "jaggery": {
+        "name": "Джаґґері",
+        "plural_name": ""
+      },
+      "flour": {
+        "name": "борошно",
+        "plural_name": ""
+      },
+      "vanilla extract": {
+        "name": "екстракт ванілі",
+        "plural_name": ""
+      },
+      "baking powder": {
+        "name": "розпушувач",
+        "plural_name": ""
+      },
+      "baking soda": {
+        "name": "харчова сода",
+        "plural_name": ""
+      },
+      "cornstarch": {
+        "name": "Кукурудзяний крохмаль",
+        "plural_name": ""
+      },
+      "yeast": {
+        "name": "Дріжджі",
+        "plural_name": ""
+      },
+      "chocolate chip": {
+        "name": "Шоколадні чіпси",
+        "plural_name": "шоколадні чіпси"
+      },
+      "whole-wheat flour": {
+        "name": "Цільно-зернове борошно",
+        "plural_name": ""
+      },
+      "almond flour": {
+        "name": "Мигдалеве борошно",
+        "plural_name": ""
+      },
+      "self-raising flour": {
+        "name": "Борошно з розпушувачем",
+        "plural_name": ""
+      },
+      "shredded coconut": {
+        "name": "Кокосова стружка",
+        "plural_name": ""
+      },
+      "cornmeal": {
+        "name": "Кукурудзяна крупа",
+        "plural_name": ""
+      },
+      "gelatin": {
+        "name": "Желатин",
+        "plural_name": ""
+      },
+      "cake flour": {
+        "name": "Борошно для тортів",
+        "plural_name": ""
+      },
+      "cream of tartar": {
+        "name": "Винний камінь",
+        "plural_name": ""
+      },
+      "bread flour": {
+        "name": "Борошно для хліба",
+        "plural_name": ""
+      },
+      "potato starch": {
+        "name": "картопляний крохмаль",
+        "plural_name": ""
+      },
+      "buckwheat flour": {
+        "name": "Гречане борошоно",
+        "plural_name": ""
+      },
+      "masa harina": {
+        "name": "Маса харіна",
+        "plural_name": ""
+      },
+      "matzo meal": {
+        "name": "Мацове борошно",
+        "plural_name": ""
+      },
+      "almond extract": {
+        "name": "Мигдальний екстракт",
+        "plural_name": ""
+      },
+      "food coloring": {
+        "name": "Харчовий барвник",
+        "plural_name": ""
+      },
+      "peppermint extract": {
+        "name": "М'ятний екстракт",
+        "plural_name": ""
+      },
+      "orange extract": {
+        "name": "Апельсиновий екстракт",
+        "plural_name": ""
+      },
+      "sprinkles": {
+        "name": "Цукерка Sprinkle",
+        "plural_name": ""
+      }
+    }
+  },
+  "sweets": {
+    "name": "Солодощі",
+    "foods": {
+      "dark chocolate": {
+        "name": "Чорний шоколад",
+        "plural_name": ""
+      },
+      "chocolate": {
+        "name": "Шоколад",
+        "plural_name": ""
+      },
+      "marshmallow": {
+        "name": "Маршмелоу",
+        "plural_name": "зефірки"
+      },
+      "applesauce": {
+        "name": "Яблучне пюре",
+        "plural_name": ""
+      },
+      "white chocolate": {
+        "name": "Білий шоколад",
+        "plural_name": ""
+      },
+      "chocolate hazelnut spread": {
+        "name": "Шоколадно-фундучна намазка",
+        "plural_name": ""
+      },
+      "caramel sauce": {
+        "name": "Карамельний соус",
+        "plural_name": ""
+      },
+      "marshmallow creme": {
+        "name": "Зефірний крем",
+        "plural_name": ""
+      },
+      "jam": {
+        "name": "Джем",
+        "plural_name": ""
+      },
+      "orange marmalade": {
+        "name": "Помаранчевий мармелад",
+        "plural_name": ""
+      },
+      "cookie": {
+        "name": "Печиво",
+        "plural_name": "Печива"
+      },
+      "lady finger": {
+        "name": "Печиво «Дамські пальчики»",
+        "plural_name": "Печиво Савоярді"
+      },
+      "apple butter": {
+        "name": "Яблучне масло",
+        "plural_name": ""
+      },
+      "ice cream": {
+        "name": "Морозиво",
+        "plural_name": ""
+      },
+      "lemon curd": {
+        "name": "Лимоний курд",
+        "plural_name": ""
+      },
+      "dulce de leche": {
+        "name": "Варене згущене молоко",
+        "plural_name": ""
+      }
+    }
+  },
+  "snacks": {
+    "name": "Закуски",
+    "foods": {
+      "walnut": {
+        "name": "Волоський горіх",
+        "plural_name": "Волоських горіхів"
+      },
+      "pecan": {
+        "name": "Пекан",
+        "plural_name": "Пеканів"
+      },
+      "almond": {
+        "name": "Мигадль",
+        "plural_name": "Мигдалю"
+      },
+      "sesame seed": {
+        "name": "Насіння кунжуту",
+        "plural_name": "насіння кунжуту"
+      },
+      "cashew": {
+        "name": "Кеш'ю",
+        "plural_name": "кеш'ю"
+      },
+      "pine nut": {
+        "name": "Кедровий горіх",
+        "plural_name": "Кедрові горіхи"
+      },
+      "pistachio": {
+        "name": "Фісташка",
+        "plural_name": "Фісташки"
+      },
+      "peanut": {
+        "name": "Арахіс",
+        "plural_name": "арахіс"
+      },
+      "chia": {
+        "name": "Насіння чіа",
+        "plural_name": ""
+      },
+      "pumpkin seed": {
+        "name": "Гарбузове насіння",
+        "plural_name": "гарбузове насіння"
+      },
+      "hazelnut": {
+        "name": "Ліщиновий горіх",
+        "plural_name": "Ліщинові горіхи"
+      },
+      "sunflower seed": {
+        "name": "Насіння соняшника",
+        "plural_name": "насіння соняшника"
+      },
+      "graham cracker": {
+        "name": "Крекер Грема",
+        "plural_name": "Крекера Грема"
+      },
+      "cracker": {
+        "name": "Крекер",
+        "plural_name": "Крекери"
+      },
+      "tortilla chip": {
+        "name": "Тотопос",
+        "plural_name": "кукурудзяні чіпси"
+      },
+      "pretzel": {
+        "name": "Брецель",
+        "plural_name": "Брецелів"
+      },
+      "popcorn": {
+        "name": "попкорн",
+        "plural_name": ""
+      },
+      "potato chip": {
+        "name": "Картопляні чипси",
+        "plural_name": "Картопляних чипсів"
+      },
+      "nut": {
+        "name": "nut",
+        "plural_name": "nuts"
+      }
+    }
+  },
+  "beverages": {
+    "name": "Напої",
+    "foods": {
+      "orange juice": {
+        "name": "Апельсиновий сік",
+        "plural_name": ""
+      },
+      "coffee": {
+        "name": "Кава",
+        "plural_name": ""
+      },
+      "club soda": {
+        "name": "Содова",
+        "plural_name": ""
+      },
+      "espresso": {
+        "name": "Еспресо",
+        "plural_name": ""
+      },
+      "pineapple juice": {
+        "name": "Ананасовий сік",
+        "plural_name": ""
+      },
+      "apple juice": {
+        "name": "Яблучний сік",
+        "plural_name": ""
+      },
+      "tea": {
+        "name": "Чай",
+        "plural_name": ""
+      },
+      "cranberry juice": {
+        "name": "Журавлинний сік",
+        "plural_name": ""
+      },
+      "tomato juice": {
+        "name": "Томатний сік",
+        "plural_name": ""
+      },
+      "ginger beer": {
+        "name": "Імбирне пиво",
+        "plural_name": ""
+      },
+      "water": {
+        "name": "water",
+        "plural_name": ""
+      }
+    }
+  },
+  "alcohol": {
+    "name": "Алкоголь",
+    "foods": {
+      "white wine": {
+        "name": "Біле вино",
+        "plural_name": ""
+      },
+      "red wine": {
+        "name": "Червоне вино",
+        "plural_name": ""
+      },
+      "whisky": {
+        "name": "Віскі",
+        "plural_name": ""
+      },
+      "rum": {
+        "name": "Ром",
+        "plural_name": ""
+      },
+      "vodka": {
+        "name": "Горілка",
+        "plural_name": ""
+      },
+      "beer": {
+        "name": "Пиво",
+        "plural_name": ""
+      },
+      "orange liqueur": {
+        "name": "Апельсиновий лікер",
+        "plural_name": ""
+      },
+      "tequila": {
+        "name": "Текіла",
+        "plural_name": ""
+      },
+      "sherry": {
+        "name": "Херес",
+        "plural_name": ""
+      },
+      "gin": {
+        "name": "Джин",
+        "plural_name": ""
+      },
+      "brandy": {
+        "name": "Бренді",
+        "plural_name": ""
+      },
+      "mirin": {
+        "name": "Мірін",
+        "plural_name": ""
+      },
+      "coffee liqueur": {
+        "name": "Кавовий лікер",
+        "plural_name": ""
+      },
+      "champagne": {
+        "name": "Шампанське",
+        "plural_name": ""
+      },
+      "vermouth": {
+        "name": "Вермут",
+        "plural_name": ""
+      },
+      "marsala wine": {
+        "name": "Вино марсала",
+        "plural_name": ""
+      },
+      "sake": {
+        "name": "Саке",
+        "plural_name": ""
+      },
+      "shaoxing wine": {
+        "name": "Вино Шаосін",
+        "plural_name": ""
+      },
+      "wine": {
+        "name": "wine",
+        "plural_name": ""
+      }
+    }
+  },
+  "health-foods": {
+    "name": "Здорова їжа",
+    "foods": {
+      "coconut milk": {
+        "name": "Кокосове молоко",
+        "plural_name": ""
+      },
+      "almond milk": {
+        "name": "Мигдалеве молоко",
+        "plural_name": ""
+      },
+      "tofu": {
+        "name": "Тофу",
+        "plural_name": ""
+      },
+      "coconut cream": {
+        "name": "Кокосові вершки",
+        "plural_name": ""
+      },
+      "soy milk": {
+        "name": "Соєве молоко",
+        "plural_name": ""
+      },
+      "extra firm tofu": {
+        "name": "Надтвердий тофу",
+        "plural_name": ""
+      },
+      "silken tofu": {
+        "name": "Шовковий тофу",
+        "plural_name": ""
+      },
+      "tempeh": {
+        "name": "Темпе",
+        "plural_name": ""
+      },
+      "oat milk": {
+        "name": "Вівсяне молоко",
+        "plural_name": ""
+      },
+      "seitan": {
+        "name": "Сейтан",
+        "plural_name": ""
+      },
+      "nutritional yeast": {
+        "name": "Харчові дріжджі",
+        "plural_name": ""
+      },
+      "vegan cheese": {
+        "name": "Веганський сир",
+        "plural_name": ""
+      }
+    }
+  },
+  "household": {
+    "name": "Сім'я",
+    "foods": {}
+  },
+  "other": {
+    "name": "Інше",
+    "foods": {
+      "ice": {
+        "name": "ice",
+        "plural_name": ""
+      }
+    }
+  }
+}
